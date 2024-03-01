@@ -1,10 +1,24 @@
 ---
-title: /
+title: Home
 layout: home
-permalink: /
+permalink: /home
 ---
 
-# Aesthetics of Computing
+
+![Alt Text](welcome_aesthetics.gif)
+
+
 ### First Year Seminar - Drake University - Fall 2024
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Welcome to Aesthetics of Computation. Please make sure to read the entirety of the syllabus below.
+
+# We have one mission this semester: to analyze the vibes of all things computing-related. 
+
+That umbrella is a big one. 
+
+We will talk about the hacker aesthetic, AI-generated images, computer music, and many other topics.
+
+We're also going to learn some philosophy, so that we have more tools for thinking about these things.
+
+
+## Detailed Schedule
