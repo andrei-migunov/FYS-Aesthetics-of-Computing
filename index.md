@@ -10,20 +10,20 @@ permalink: /index
 
 ### Welcome to Aesthetics of Computing! My name is Andrei - I am your professor - and I am so excited to have you in my class and to get to know you over the next weeks and months! Please make sure to read the entirety of the syllabus below, so you can know our policies, what's expected of you, what you can expect from me, and what the class is going to be about!
 
-# > ...
-# > ...
-# > ...
+# > `...` `accessing CourseObjectives.txt`
+# > `...`
+# > `... loading ...`
 
 # COURSE OBJECTIVES
 ## We have one mission this semester: to analyze the vibes of all things computing-related. That's a pretty big umbrella. That means we have to narrow it down to a collection of things that we can talk about in one semester.
 
 Some of our topics: computer marketing, the hacker aesthetic, AI-generated images, computer music, aesthetic theory, gaming, pixel art, and many more.
 
-Some of our philosophical questions: what is beauty and how does it manifest in the design of computers and related things? why do themes like cyberpunk and hacking have such draw? how is understanding something aesthetically related to understanding its function? how does it go beyond? what do we mean in philosophy by 'form' and 'content'? how do the appearances of things affect how we understand those things? what is the nature of the appeal of electronic and other 'computer music'? what do machines and technology make us feel in art that utilizes those themes? what is a video game? how does nostalgia for the past affect how we think and feel about older technologies?
+Some of our questions: what is a computer? what is beauty and how does it manifest in the design of computers and related things? why do themes like cyberpunk and hacking have such draw? how is understanding something aesthetically related to understanding its function? how does it go beyond? what do we mean in philosophy by 'form' and 'content'? how do the appearances of things affect how we understand those things? what is the nature of the appeal of electronic and other 'computer music'? what do artistic representations of machies and technology make us feel? what is a video game? how does nostalgia for the past affect how we think and feel about older technologies?
 
-# > ...
-# > ...
-# > ...
+# > `...` `accessing Attendance.txt`
+# > `...`
+# > `... loading ...`
 
 # ATTENDANCE
 
