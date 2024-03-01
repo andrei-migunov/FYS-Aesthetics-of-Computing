@@ -10,7 +10,7 @@ header_pages:
 footer: Website constructed using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/b2a3e8/jekyll-theme-console">Jekyll theme console</a>
 
 style: hacker # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+listen_for_clients_preferred_style: false # true or false (default)
 
 plugins:
   - jekyll-seo-tag
