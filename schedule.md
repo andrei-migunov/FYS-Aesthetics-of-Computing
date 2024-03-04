@@ -42,6 +42,7 @@ Aesthetics and ideology: Zizek - section on antisemitism
 
 
 High tech in high sci fi literature - Dick, Gibson - Scanner Darkly & Neuromancer
+https://archive.org/details/msdos_Neuromancer_1988
 
 Nostalgia: Nostalgia for old games - "demakes" etc, old FPS games
 
