@@ -15,7 +15,7 @@ Our detailed schedule of readings is as follows:
 |------|---------|------------------|-----------------------|
 |   Aug 26   |    What is Aesthetics?     |      x            |   Everyday Aesthetics                     |
 |   Aug 28   |         |                  |                       |
-|   Sept 2   |         |                  |                       |
+|   xxx  |  [LABOR DAY]       |       NO CLASS           |             NO READING          |
 |    Sept 4  |         |                  |                       |
 |    Sept 9  |         |                  |                       |
 |    Sept 11  |         |                  |                       |
@@ -36,13 +36,16 @@ Aesthetic theory:
     What is Aesthetics? 
     Aesthetics of the Everyday https://plato.stanford.edu/entries/aesthetics-of-everyday/#EveAesEveAes ; https://en.wikipedia.org/wiki/Everyday_Aesthetics
     Lefebvre - section on the transformer
+    Sontag, “Against Interpretation” (
 
-
-Aesthetics and ideology: Zizek - section on antisemitism
+Aesthetics and ideology: 
+    Zizek - section on antisemitism
 
 
 High tech in high sci fi literature - Dick, Gibson - Scanner Darkly & Neuromancer
 https://archive.org/details/msdos_Neuromancer_1988
+Ridley Scott - Blade Runner (1982, Director's Cut)
+https://www.youtube.com/watch?v=WFv1OcrISK8
 
 Nostalgia: Nostalgia for old games - "demakes" etc, old FPS games
 
@@ -53,12 +56,7 @@ Machine Learning and AI: Logic Magazine on 'Data Science'
 Approved by Faculty Senate in February 2021
 Presented to Faculty Senate for Confirmation in January 2023
 Spring Break approved by Faculty Senate in December 2023
-Summer Term
-Classes Begin May 20 (Mon)
-Memorial Day (no classes) May 27 (Mon)
-Juneteenth (no classes) June 19 (Wed)
-Independence Day (no classes) July 4 (Thursday)
-Term Ends Aug 25 (Mon)
+
 
 Fall Term
 Classes Begin Aug 26 (Mon)
