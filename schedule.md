@@ -15,7 +15,7 @@ Our detailed schedule of readings is as follows:
 |------|---------|------------------|-----------------------|
 |   Aug 26   |    What is Aesthetics?     |      x            |   Everyday Aesthetics                     |
 |   Aug 28   |         |                  |                       |
-|   xxx  |  [LABOR DAY]       |       NO CLASS           |             NO READING          |
+|   xxx  |  [[LABOR DAY]]       |       [[NO CLASS]]           |             [[NO READING]]          |
 |    Sept 4  |         |                  |                       |
 |    Sept 9  |         |                  |                       |
 |    Sept 11  |         |                  |                       |
@@ -49,7 +49,10 @@ https://www.youtube.com/watch?v=WFv1OcrISK8
 
 Nostalgia: Nostalgia for old games - "demakes" etc, old FPS games
 
+
 Machine Learning and AI: Logic Magazine on 'Data Science' 
+
+
 >
 
 <!-- Academic Calendar for 2024-2025
