@@ -40,6 +40,7 @@ Aesthetic theory:
 
 Aesthetics and ideology: 
     Zizek - section on antisemitism
+    Kahneman - systems 1 and 2
 
 
 High tech in high sci fi literature - Dick, Gibson - Scanner Darkly & Neuromancer
