@@ -3,7 +3,12 @@ layout: default
 title: Grade Estimator
 ---
 
-<script type="text/javascript" src="{{ site.baseurl }}/assets/brython.js"></script>
+ <!--  <script type="text/javascript" src="{{ site.baseurl }}/assets/brython.js"></script> -->
+
+<script src="https://cdn.jsdelivr.net/npm/brython@3/brython.min.js">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/brython@3/brython_stdlib.js">
+</script>
 
 <script type="text/python">
 from browser import document, html
