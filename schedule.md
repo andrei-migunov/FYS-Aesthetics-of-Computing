@@ -81,6 +81,31 @@ Viewing: Blade Runner (Existentialism, Dystopia, Computing)
 
 >
 
+<!-- Assignments - 
+
+1. a trip to library, talk to librarians 
+2. sequenced writing assignments, related to each other
+    a. give opportunity to improve on past work
+    b. in a way that allows them to deal with more complex thinking 
+
+3. incorporate weekly low-stakes assignments into later large high-stakes assignments
+
+studies on whether students read written feedback???
+techniques to get students to read the feedback: iterative homework, credit for incorporating feedback
+
+writing center - for all students - can come in with prompt or with existing writing, any stage. tutors work with writing at any stage, from any discipline. keeps records of attendance. Tutors trained in working with ESL students. 
+
+students need to schedule appointments ahead of time, the appointments fill up. Use class time: get out your computer and schedule your appointment now, in class. 
+
+Starfish used for scheduling. 
+
+-- looking for scientific writing tutors (Evan?? Nicholas??)
+    
+    
+    
+    
+    -->
+
 <!-- Academic Calendar for 2024-2025
 Approved by Faculty Senate in February 2021
 Presented to Faculty Senate for Confirmation in January 2023
