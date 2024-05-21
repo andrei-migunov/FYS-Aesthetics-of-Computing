@@ -8,27 +8,37 @@ permalink: /schedule
 
 >"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
 
-Our detailed schedule of readings is as follows:
+Our detailed schedule of readings is below. Anything that is not linked is available in Blackboard.
 
 
-| Date | Reading | Is Anything Due? | Supplementary Reading |
-|------|---------|------------------|-----------------------|
-|   Aug 26   |    What is Aesthetics?     |      x            |   Everyday Aesthetics                     |
-|   Aug 28   |         |                  |                       |
+| Date          | Reading           | Is Anything Due?          |           Supplementary Reading |
+|------         |---------          |------------------         |-----------------------            |
+|   Aug 26   |   [What is Aesthetics?](https://en.wikipedia.org/wiki/Everyday_Aesthetics)      |      x            |                        |
+|   Aug 28   |     [Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)    |                  |                       |
 |   xxx  |  [[LABOR DAY]]       |       [[NO CLASS]]           |             [[NO READING]]          |
-|    Sept 4  |         |                  |                       |
-|    Sept 9  |         |                  |                       |
-|    Sept 11  |         |                  |                       |
+|    Sept 4  |    Susan Sontag - Against Interpretation     |                  |                       |
+|    Sept 9  |     Henri Lefebvre - (excerpt) On the Transformer    |                  |                       |
+|    Sept 11  |         |                  |                       | Bill Livant - The Hole in Hegel's Bagel
 |     Sept 16 |         |                  |                       |
 |    Sept 18  |         |                  |                       |
 |   Sept 23   |         |                  |                       |
 |   Sept 25   |         |                  |                       |
-|   Sept 30   |         |                  |                       |
-|    Oct 2  |         |                  |                       |
+|   Sept 30   |   Neuromancer  |                  |            |
+|    Oct 2  |    Neuromancer     |                  |                       |
+|      |   AI and Machine Learning      |                  |                       |
+|      |   AI and Machine Learning     |                  |                       |
+|      |    Nostalgia ([old games](https://archive.org/details/msdos_Neuromancer_1988), demakes)    |                  |                       |
+|      |    Nostalgia  (Mark Fisher)   |                  |                       |
+|      |         |                  |                       |
+|      |         |                  |                       |
+|      |         |                  |                       |
+|      |         |                  |                       |
+|      |         |                  |                       |
+|      |         |                  |                       |
 |      |         |                  |                       |
 |      |         |                  |                       |
 
-
+<!-- Blade runner when?-->
 
 <!--- Units:
 
@@ -40,7 +50,7 @@ Aesthetic theory:
 
 Aesthetics and ideology: 
     Zizek - section on antisemitism
-    Kahneman - systems 1 and 2
+    
 
 
 High tech in high sci fi literature - Dick, Gibson - Scanner Darkly & Neuromancer
@@ -52,6 +62,21 @@ Nostalgia: Nostalgia for old games - "demakes" etc, old FPS games
 
 
 Machine Learning and AI: Logic Magazine on 'Data Science' 
+
+Event??
+
+Science of religion and religion of science?
+Record?
+Late in semester?
+
+Natalie Bayer It's a Wonderful World? Utopia, Dystopia, and Western Political Dreams
+Timothy Knepper Religions of Des Moines
+Andrei Migunov Aesthetics of Computing
+Dystopia, Religion, Tech
+
+Viewing: Blade Runner (Existentialism, Dystopia, Computing)
+
+
 
 
 >
