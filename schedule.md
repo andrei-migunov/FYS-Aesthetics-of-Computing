@@ -17,21 +17,21 @@ Our detailed schedule of readings is below. Anything that is not linked is avail
 |   Aug 28   |     [Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)    |                  |                       |
 |   xxx  |  [[LABOR DAY]]       |       [[NO CLASS]]           |             [[NO READING]]          |
 |    Sept 4  |    Susan Sontag - Against Interpretation     |                  |                       |
-|    Sept 9  |     Henri Lefebvre - (excerpt) On the Transformer    |                  |                       |
+|    Sept 9  |     Henri Lefebvre - On the Transformer    |                  |                       |
 |    Sept 11  |         |                  |                       | Bill Livant - The Hole in Hegel's Bagel
 |     Sept 16 |         |                  |                       |
 |    Sept 18  |         |                  |                       |
 |   Sept 23   |         |                  |                       |
 |   Sept 25   |         |                  |                       |
-|   Sept 30   |   Neuromancer  |                  |            |
-|    Oct 2  |    Neuromancer     |                  |                       |
-|      |   AI and Machine Learning      |                  |                       |
-|      |   AI and Machine Learning     |                  |                       |
-|      |    Nostalgia ([old games](https://archive.org/details/msdos_Neuromancer_1988), demakes)    |                  |                       |
-|      |    Nostalgia  (Mark Fisher)   |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
+|   Sept 30   |   Neuromancer Chs. 1 - 10 |                  |            |
+|    Oct 2  |    Neuromancer  Chs. 1 - 10   |                  |                       |
+|    Oct 7  |   AI and Machine Learning - Logic Mag on Data Science      |                  |                       |
+|    Oct 9  |   AI Art and Pixel Art     |                  |                       |
+|    Oct 14  |      [[FALL BREAK]]    |           [[NO CLASS]]       |             [[NO READING]]          |
+|    Oct 16   |    Nostalgia (Mark Fisher)    |                  |                       |
+|    Oct 21  |      Nostalgia ([old games](https://archive.org/details/msdos_Neuromancer_1988), demakes)   |                  |                       |
+|    Oct 23  |         |                  |                       |
+|      |      Video Games   |                  |                       |
 |      |         |                  |                       |
 |      |         |                  |                       |
 |      |         |                  |                       |
