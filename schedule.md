@@ -8,36 +8,201 @@ permalink: /schedule
 
 >"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
 
-Our detailed schedule of readings is below. Anything that is not linked is available in Blackboard.
+Our detailed schedule of readings is below. Any reading that is not linked is available in Blackboard.
 
 
-| Date          | Reading           | Is Anything Due?          |           Supplementary Reading |
-|------         |---------          |------------------         |-----------------------            |
-|   Aug 26   |   [What is Aesthetics?](https://en.wikipedia.org/wiki/Everyday_Aesthetics)      |      x            |                        |
-|   Aug 28   |     [Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)    |                  |                       |
-|   xxx  |  [[LABOR DAY]]       |       [[NO CLASS]]           |             [[NO READING]]          |
-|    Sept 4  |    Susan Sontag - Against Interpretation     |                  |                       |
-|    Sept 9  |     Henri Lefebvre - On the Transformer    |                  |                       |
-|    Sept 11  |         |                  |                       | Bill Livant - The Hole in Hegel's Bagel
-|     Sept 16 |         |                  |                       |
-|    Sept 18  |         |                  |                       |
-|   Sept 23   |         |                  |                       |
-|   Sept 25   |         |                  |                       |
-|   Sept 30   |   Neuromancer Chs. 1 - 10 |                  |            |
-|    Oct 2  |    Neuromancer  Chs. 1 - 10   |                  |                       |
-|    Oct 7  |   AI and Machine Learning - Logic Mag on Data Science      |                  |                       |
-|    Oct 9  |   AI Art and Pixel Art     |                  |                       |
-|    Oct 14  |      [[FALL BREAK]]    |           [[NO CLASS]]       |             [[NO READING]]          |
-|    Oct 16   |    Nostalgia (Mark Fisher)    |                  |                       |
-|    Oct 21  |      Nostalgia ([old games](https://archive.org/details/msdos_Neuromancer_1988), demakes)   |                  |                       |
-|    Oct 23  |         |                  |                       |
-|      |      Video Games   |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
-|      |         |                  |                       |
+| Date     | Reading     | Is Anything Due?     |   Supplementary Reading |
 
+
+Aug 26   |   
+Topic: What is Aesthetics?
+Reading for this day: [What is Aesthetics?](https://en.wikipedia.org/wiki/Aesthetics) 
+Supplementary reading: Hegel
+
+____________________________________
+
+
+Aug 28   |
+Topic: Aesthetics of the Everyday        
+Reading for this day: [Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
+Supplementary reading: tbd
+
+____________________________________
+
+Sept 2 |
+NO CLASS - LABOR DAY
+
+____________________________________
+
+Sept 4    | 
+Topic: Aesthetic Theory
+Reading for this day: Susan Sontag - Against Interpretation  
+Supplementary reading: none  
+
+____________________________________
+
+
+Sept 9 | 
+Topic: Aesthetic Theory
+Reading for this day: Henri Lefebvre - On the Transformer
+Supplementary reading: none  
+
+____________________________________
+
+Sept 11 |
+Reading for this day:
+Supplementary reading:  Bill Livant - The Hole in Hegel's Bagel
+
+____________________________________
+
+Sept 16 |
+Reading for this day:
+Supplementary reading:  
+
+____________________________________
+
+Sept 18 |
+Reading for this day:
+Supplementary reading:  
+
+____________________________________
+
+Sept 23 |
+Reading for this day:
+Supplementary reading:  
+
+____________________________________
+
+Sept 25 |
+Reading for this day:
+Supplementary reading:  
+
+____________________________________
+
+Sept 30 | 
+Topic: Computing in Fiction
+Reading for this day: Neuromancer Chs. 1 - 10
+Supplementary reading: 
+
+____________________________________
+
+Oct 2 |
+Topic: Computing in Fiction
+Reading for this day: Neuromancer Chs. 1 - 10
+Supplementary reading:  
+
+____________________________________
+
+Oct 7 |
+Topic: Artificial Intelligence and Machine Learning
+Reading for this day: Logic Magazine on Data Science
+Supplementary reading:  
+
+____________________________________
+
+Oct 9 |
+Topic: Artificial Intelligence and Machine Learning
+Reading for this day: AI Art and Pixel Art: (Reading)
+Supplementary reading:  
+
+____________________________________
+
+
+Oct 14 |
+FALL BREAK - NO CLASS - NO READING
+
+____________________________________
+
+Oct 16 |
+Topic: Nostalgia
+Reading for this day:  (Mark Fisher) 
+Supplementary reading:  
+
+____________________________________
+
+Oct 21 |
+Topic: Nostalgia 
+Reading for this day: ([old games](https://archive.org/details/msdos_Neuromancer_1988)
+Supplementary reading:  
+
+____________________________________
+
+Oct 23 |
+Topic:
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Oct 28 |
+Topic: Video Games
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Oct 30 |
+Topic: Video Games
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 4 |
+Topic: Computer Music
+Reading for this day:  [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
+Supplementary reading:  
+
+____________________________________
+
+Nov 6 |
+Topic: Computer Music
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 11 |
+Topic: 
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 13 |
+Topic: 
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 18 |
+Topic: 
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 20 |
+Topic: 
+Reading for this day: 
+Supplementary reading:  
+
+____________________________________
+
+Nov 25 |
+NO CLASS - SPEND TODAY READING AND/OR WRITING
+
+____________________________________
+
+Nov 27 | 
+
+
+|   Nov 25   |    Day free: spend it writing   |         [[NO CLASS]]          |                       |
+|   Nov 27   |    Thanksgiving     |         [[NO CLASS]]          |                       |
+|   Dec 2   |         |                  |                       |
+|   Dec 4   |         |                  |                       |
+|   TBD Dec 9-13   |  Final edits   |                  |                       |
 <!-- Blade runner when?-->
 
 <!--- Units:

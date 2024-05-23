@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Grade Estimator
+layout: default
+permalink: /grade_estimator
 ---
 
  <!--  <script type="text/javascript" src="{{ site.baseurl }}/assets/brython.js"></script> -->

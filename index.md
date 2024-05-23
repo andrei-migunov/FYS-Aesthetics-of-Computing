@@ -17,9 +17,9 @@ permalink: /index
 # COURSE OBJECTIVES
 ## We have one mission this semester: to analyze the vibes of all things computing-related. That's a pretty big umbrella. That means we have to narrow it down to a collection of things that we can talk about in one semester.
 
-Some of our topics: computer marketing, the hacker aesthetic, AI-generated images, computer music, aesthetic theory, gaming, pixel art, and many more.
+Some of our topics: the hacker aesthetic, computer music, aesthetic theory, gaming, pixel and AI art, and many more.
 
-Some of our questions: what is a computer? what is beauty and how does it manifest in the design of computers and related things? why do themes like cyberpunk and hacking have such draw? how is understanding something aesthetically related to understanding its function? how does it go beyond? what do we mean in philosophy by 'form' and 'content'? how do the appearances of things affect how we understand those things? what is the nature of the appeal of electronic and other 'computer music'? what do artistic representations of machies and technology make us feel? what is a video game? how does nostalgia for the past affect how we think and feel about older technologies?
+Some of our questions: What is a computer? Is it a machine? What is beauty and how does it manifest in the design of computers and related things? Why do themes like cyberpunk and hacking have such appeal? How is understanding something aesthetically related to understanding its function? How does it go beyond? What do we mean in philosophy by 'form' and 'content'? How do the appearances of things affect how we understand those things? What is the nature of the appeal of electronic and other 'computer music'? What do artistic representations of machies and technology make us feel? What is a video game? How does nostalgia for the past affect how we think and feel about older technologies?
 
 # > `...` `accessing Attendance.txt`
 # > `...`
