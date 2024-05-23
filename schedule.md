@@ -11,13 +11,14 @@ permalink: /schedule
 Our detailed schedule of readings is below. Any reading that is not linked is available in Blackboard.
 
 
-| Date     | Reading     | Is Anything Due?     |   Supplementary Reading |
-
+# Detailed Schedule
 
 Aug 26   |   
 Topic: What is Aesthetics?
-Reading for this day: [What is Aesthetics?](https://en.wikipedia.org/wiki/Aesthetics) 
-Supplementary reading: Hegel
+Reading for this day:  Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
+Supplementary reading: Hegel tbd
+
+* This file is on blackboard - please download it there!
 
 ____________________________________
 
@@ -215,6 +216,17 @@ Aesthetic theory:
 
 Aesthetics and ideology: 
     Zizek - section on antisemitism
+    Bill Livant
+
+Machine Aesthetics
+    Bremmert - Ch2 
+    Bremmert - Ch3
+
+Computer Aesthetics
+    AI and ML
+    Computer Art
+    Computer Music
+    
     
 
 
