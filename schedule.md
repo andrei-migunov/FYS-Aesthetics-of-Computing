@@ -20,7 +20,7 @@ Our detailed schedule of readings is below. Any reading that is not hyperlinked 
 Aug 26   |   
 Topic: Welcome to Drake!
 Reading for this day: (Do the readings for the next meeting)
-Supplementary reading: (Do the readings for the next meeting)
+Supplementary (Do the readings for the next meeting)
 
 
 
@@ -32,7 +32,7 @@ Topic: What is Aesthetics? & Aesthetics of the Everyday
 Readings for this day: 
                         Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
                         [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
-Supplementary reading: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+Supplementary [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
 * This file is on blackboard - please download it there!
 
@@ -46,7 +46,7 @@ ____________________________________
 Sept 4    | 
 Topic: Aesthetic Theory
 Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
-Supplementary reading: none  
+Supplementary none  
 
 ____________________________________
 
@@ -54,67 +54,75 @@ ____________________________________
 Sept 9 | 
 Topic: Aesthetic Theory
 Reading for this day: Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
-Supplementary reading: none  
+Supplementary none  
 
 ____________________________________
 
 Sept 11 |
 Topic: Aesthetics and Ideology
-Reading for this day: 
-Supplementary reading:  Bill Livant - The Hole in Hegel's Bagel
+Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
+Supplementary:Bill Livant - The Hole in Hegel's Bagel
 
 ____________________________________
 
 Sept 16 |
-Topic: Aesthetics and Ideology
-Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
-Supplementary reading:  
+Topic: Machine Aesthetics
+Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 2 
+Viewing for this Day: [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
+Supplementary:
 
 ____________________________________
 
 Sept 18 |
-Reading for this day:
-Supplementary reading:  
+Topic: Machine Aesthetics
+Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 3 
+Viewing for this day: [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c)
+Supplementary:
 
 ____________________________________
 
 Sept 23 |
-Reading for this day:
-Supplementary reading:  
+Topic: Algorithms
+Reading for this day: [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+                      [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+Supplementary [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
 
 ____________________________________
 
-Sept 25 |
-Reading for this day:
-Supplementary reading:  
+Sept 25 | 
+Topic: Hacker Culture
+Reading for this day: [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
+Supplementary:
 
 ____________________________________
 
 Sept 30 | 
 Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
-Supplementary reading: 
+Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell]()
+Supplementary 
+Supplementary viewing: Ghost in the Shell (1995)
 
 ____________________________________
 
 Oct 2 |
 Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Oct 7 |
 Topic: Artificial Intelligence and Machine Learning
 Reading for this day: Logic Magazine on Data Science
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Oct 9 |
 Topic: Artificial Intelligence and Machine Learning
 Reading for this day: AI Art and Pixel Art: (Reading)
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
@@ -125,79 +133,79 @@ FALL BREAK - NO CLASS - NO READING
 ____________________________________
 
 Oct 16 |
-Topic: Nostalgia
-Reading for this day:  (Mark Fisher) 
-Supplementary reading:  
+Topic: Cybernetics
+Reading for this day:  
+Supplementary:
 
 ____________________________________
 
 Oct 21 |
 Topic: Nostalgia 
-Reading for this day: ([old games](https://archive.org/details/msdos_Neuromancer_1988)
-Supplementary reading:  
+Reading for this day: 
+Supplementary: ([old games](https://archive.org/details/msdos_Neuromancer_1988)
 
 ____________________________________
 
 Oct 23 |
 Topic:
 Reading for this day: 
-Supplementary reading:  
+Supplementary:  
 
 ____________________________________
 
 Oct 28 |
 Topic: Video Games
 Reading for this day: 
-Supplementary reading:  
+Supplementary:  
 
 ____________________________________
 
 Oct 30 |
 Topic: Video Games
 Reading for this day: 
-Supplementary reading:  
+Supplementary:  
 
 ____________________________________
 
 Nov 4 |
 Topic: Computer Music
 Reading for this day:  [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Nov 6 |
 Topic: Computer Music
 Reading for this day: 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Nov 11 |
 Topic: 
 Reading for this day: 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Nov 13 |
 Topic: 
 Reading for this day: 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Nov 18 |
 Topic: 
 Reading for this day: 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
 Nov 20 |
 Topic: 
 Reading for this day: 
-Supplementary reading:  
+Supplementary:
 
 ____________________________________
 
