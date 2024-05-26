@@ -8,25 +8,33 @@ permalink: /schedule
 
 >"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
 
-Our detailed schedule of readings is below. Any reading that is not linked is available in Blackboard.
+
+First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from others, and this a list of readings that will give you new ideas to make your own ideas and writing original, and interesting to other people and to yourself.
+
+
+Our detailed schedule of readings is below. Any reading that is not hyperlinked is available in Blackboard - so you should go there and download it.
 
 
 # Detailed Schedule
 
 Aug 26   |   
-Topic: What is Aesthetics?
-Reading for this day:  Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
-Supplementary reading: Hegel tbd
+Topic: Welcome to Drake!
+Reading for this day: (Do the readings for the next meeting)
+Supplementary reading: (Do the readings for the next meeting)
 
-* This file is on blackboard - please download it there!
+
 
 ____________________________________
 
 
 Aug 28   |
-Topic: Aesthetics of the Everyday        
-Reading for this day: [Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
-Supplementary reading: tbd
+Topic: What is Aesthetics? & Aesthetics of the Everyday        
+Readings for this day: 
+                        Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
+                        [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
+Supplementary reading: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+
+* This file is on blackboard - please download it there!
 
 ____________________________________
 
@@ -37,7 +45,7 @@ ____________________________________
 
 Sept 4    | 
 Topic: Aesthetic Theory
-Reading for this day: Susan Sontag - Against Interpretation  
+Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
 Supplementary reading: none  
 
 ____________________________________
@@ -45,19 +53,21 @@ ____________________________________
 
 Sept 9 | 
 Topic: Aesthetic Theory
-Reading for this day: Henri Lefebvre - On the Transformer
+Reading for this day: Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
 Supplementary reading: none  
 
 ____________________________________
 
 Sept 11 |
-Reading for this day:
+Topic: Aesthetics and Ideology
+Reading for this day: 
 Supplementary reading:  Bill Livant - The Hole in Hegel's Bagel
 
 ____________________________________
 
 Sept 16 |
-Reading for this day:
+Topic: Aesthetics and Ideology
+Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
 Supplementary reading:  
 
 ____________________________________
@@ -81,14 +91,14 @@ Supplementary reading:
 ____________________________________
 
 Sept 30 | 
-Topic: Computing in Fiction
+Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
 Supplementary reading: 
 
 ____________________________________
 
 Oct 2 |
-Topic: Computing in Fiction
+Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
 Supplementary reading:  
 
