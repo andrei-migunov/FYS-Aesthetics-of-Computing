@@ -20,8 +20,6 @@ Our detailed schedule of readings is below. Any reading that is not hyperlinked 
 Aug 26   |   
 Topic: Welcome to Drake!
 Reading for this day: (Do the readings for the next meeting)
-Supplementary (Do the readings for the next meeting)
-
 
 
 ____________________________________
@@ -46,7 +44,7 @@ ____________________________________
 Sept 4    | 
 Topic: Aesthetic Theory
 Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
-Supplementary none  
+Supplementary: none  
 
 ____________________________________
 
@@ -54,14 +52,14 @@ ____________________________________
 Sept 9 | 
 Topic: Aesthetic Theory
 Reading for this day: Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
-Supplementary none  
+Supplementary: none  
 
 ____________________________________
 
 Sept 11 |
 Topic: Aesthetics and Ideology
 Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
-Supplementary:Bill Livant - The Hole in Hegel's Bagel
+Supplementary: Bill Livant - The Hole in Hegel's Bagel
 
 ____________________________________
 
@@ -85,7 +83,7 @@ Sept 23 |
 Topic: Algorithms
 Reading for this day: [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
                       [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-Supplementary [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
+Supplementary: [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
 
 ____________________________________
 
@@ -100,8 +98,7 @@ Sept 30 |
 Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
 Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell]()
-Supplementary 
-Supplementary viewing: Ghost in the Shell (1995)
+Supplementary: Ghost in the Shell (1995)
 
 ____________________________________
 
