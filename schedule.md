@@ -97,8 +97,8 @@ ____________________________________
 Sept 30 | 
 Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
-Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell]()
-Supplementary: Ghost in the Shell (1995)
+Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
+Supplementary: Watch - Ghost in the Shell (1995)
 
 ____________________________________
 
@@ -165,14 +165,15 @@ Supplementary:
 ____________________________________
 
 Nov 4 |
-Topic: Computer Music
+Topic: Computer and Electronic Music
 Reading for this day:  [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
+Listening for this day: 
 Supplementary:
 
 ____________________________________
 
 Nov 6 |
-Topic: Computer Music
+Topic: Computer and Electronic Music
 Reading for this day: 
 Supplementary:
 
