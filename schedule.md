@@ -8,9 +8,11 @@ permalink: /schedule
 
 >"What does a scanner see? he asked himself. I mean, really see? Into the head? Down into the heart? Does a passive infrared scanner like they used to use or a cube-type holo-scanner like they use these days, the latest thing, see into me - into us - clearly or darkly? I hope it does, he thought, see clearly, because I can't any longer these days see into myself. I see only murk. Murk outside; murk inside. I hope, for everyone's sake, the scanners do better. Because, he thought, if the scanner sees only darkly, the way I myself do, then we are cursed, cursed again and like we have been continually, and we'll wind up dead this way, knowing very little and getting that little fragment wrong too." (Philip K. Dick, <i> A Scanner Darkly </i>)
 
+# Doing the reading
 
 First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from others, and this a list of readings that will give you new ideas to make your own ideas and writing original, and interesting to other people and to yourself.
 
+It is not possible to do well in this class without doing the reading.
 
 Our detailed schedule of readings is below. Any reading that is not hyperlinked is available in Blackboard - so you should go there and download it.
 
@@ -27,12 +29,19 @@ ____________________________________
 
 Aug 28   |
 Topic: What is Aesthetics? & Aesthetics of the Everyday        
+
 Readings for this day: 
                         Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
                         [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
-Supplementary [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
-* This file is on blackboard - please download it there!
+Viewing for this day: [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM)
+
+Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+
+
+<!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
+
+(*) This file is on blackboard - please download it there!
 
 ____________________________________
 
@@ -44,14 +53,16 @@ ____________________________________
 Sept 4    | 
 Topic: Aesthetic Theory
 Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
-Supplementary: none  
+Supplementary: [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
+
+Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
 
 ____________________________________
 
 
 Sept 9 | 
 Topic: Aesthetic Theory
-Reading for this day: Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
+Reading for this day: Daniel Kahneman - Systems 1 and 2
 Supplementary: none  
 
 ____________________________________
