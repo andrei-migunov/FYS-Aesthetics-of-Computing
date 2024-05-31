@@ -41,7 +41,7 @@ Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanfo
 
 <!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
 
-(*) This file is on blackboard - please download it there!
+(*) I've made this book available through the Drake Library E-reserve system. You can access it via Blackboard.
 
 ____________________________________
 
@@ -55,7 +55,7 @@ Topic: Aesthetic Theory
 Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
 Supplementary: [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
 
-Henri Lefebvre - On the Transformer, from <i>Critique of Everyday Life</i>
+Henri Lefebvre - Excerpt from <i>Critique of Everyday Life</i>
 
 ____________________________________
 
