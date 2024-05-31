@@ -39,7 +39,6 @@ Viewing for this day: [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJ
 Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
 
-<!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
 
 (*) I've made this book available through the Drake Library E-reserve system. You can access it via Blackboard.
 
@@ -61,14 +60,14 @@ ____________________________________
 
 
 Sept 9 | 
-Topic: Aesthetic Theory
+Topic: Aesthetics and the Unconscious
 Reading for this day: Daniel Kahneman - Systems 1 and 2
 Supplementary: none  
 
 ____________________________________
 
 Sept 11 |
-Topic: Aesthetics and Ideology
+Topic: Aesthetics and the Unconscious
 Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
 Supplementary: Bill Livant - The Hole in Hegel's Bagel
 
@@ -76,15 +75,18 @@ ____________________________________
 
 Sept 16 |
 Topic: Machine Aesthetics
-Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 2 
+Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
 Viewing for this Day: [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
+
 Supplementary:
 
+
+<!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
 ____________________________________
 
 Sept 18 |
-Topic: Machine Aesthetics
-Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 3 
+Topic: Electronic Aesthetics
+Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
 Viewing for this day: [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c)
 Supplementary:
 
@@ -100,9 +102,13 @@ ____________________________________
 
 Sept 25 | 
 Topic: Hacker Culture
-Reading for this day: [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
-Supplementary:
+Reading for this day: [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
+Supplementary: [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
+[Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
 
+<!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
+
+<!-- There is always thrill involved, it's like the vibe of bank heist movies. Risk, reward, sometimes integrity and a sense of social justice. Criminality. -->
 ____________________________________
 
 Sept 30 | 
@@ -116,7 +122,7 @@ ____________________________________
 Oct 2 |
 Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
-Supplementary:
+Supplementary: 
 
 ____________________________________
 
@@ -135,7 +141,7 @@ Supplementary:
 ____________________________________
 
 
-Oct 14 |
+Oct 14 | 
 FALL BREAK - NO CLASS - NO READING
 
 ____________________________________
@@ -154,10 +160,10 @@ Supplementary: ([old games](https://archive.org/details/msdos_Neuromancer_1988)
 
 ____________________________________
 
-Oct 23 |
-Topic:
-Reading for this day: 
-Supplementary:  
+Oct 23 | 
+Topic: Aesthetics of Machine Decay 
+Reading for this day: Bremmert - Ch. 4 (Chaotech) 
+Supplementary: [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
 
 ____________________________________
 
@@ -169,7 +175,7 @@ Supplementary:
 ____________________________________
 
 Oct 30 |
-Topic: Video Games
+Topic: Video Games 
 Reading for this day: 
 Supplementary:  
 
