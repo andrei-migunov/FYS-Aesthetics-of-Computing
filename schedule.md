@@ -163,13 +163,14 @@ Reading for this day:
 [Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
 Supplementary: [old games](https://archive.org/details/msdos_Neuromancer_1988)
 [Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
-[Technological revolutionas and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
+[Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
 Optional: watch an episode or two of Halt and Catch Fire (if you can find it somewhere)
 ____________________________________
 
 Oct 23 | 
 Topic: Aesthetics of Machine Decay 
 Reading for this day: Bremmert - Ch. 4 (Chaotech) 
+Listening for this day (you don't need to listen to the entire album): [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI)
 Supplementary: [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
 
 ____________________________________
@@ -191,9 +192,14 @@ ____________________________________
 Nov 4 |
 Topic: Computer and Electronic Music
 Reading for this day:  [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
-Listening for this day: 
-Supplementary:
-
+Listening for this day: [Burial - <i>Archangel</i>](https://www.youtube.com/watch?v=E2qLD9c3Gq4), [Sample breakdown of <i>Archangel</i>](https://www.youtube.com/watch?v=rmOuV0ZvAgU), 
+[(some of) Aphex Twin - <i>Selected Ambiet Works 85-92</i>](https://www.youtube.com/watch?v=Xw5AiRVqfqk)
+Supplementary: 
+[Burial - <i>Forgive</i>](https://www.youtube.com/watch?v=f-Bn8h2TtdU)
+[Ikonika - <i>Please</i>](https://www.youtube.com/watch?v=6Lzk_tGQB9w)
+[William Basinski - <i>Disintegration Loops</i>](https://www.youtube.com/watch?v=LGddm-hw-Xc)
+[oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
+[Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
 ____________________________________
 
 Nov 6 |
