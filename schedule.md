@@ -118,6 +118,7 @@ Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
 Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
 Supplementary: Watch - Ghost in the Shell (1995)
+[Donna Haraway - Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
 
 ____________________________________
 
