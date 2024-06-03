@@ -10,9 +10,9 @@ permalink: /schedule
 
 # Doing the reading
 
-First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from others, and this a list of readings that will give you new ideas to make your own ideas and writing original, and interesting to other people and to yourself.
+First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the entire reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from the way we process the ideas of others, and this a list of readings that will give you new ideas to make your own ideas and writing original and interesting to other people and to yourself.
 
-It is not possible to do well in this class without doing the reading.
+<b>It is not possible to do well in this class without doing the reading.</b>
 
 Our detailed schedule of readings is below. Any reading that is not hyperlinked is available in Blackboard - so you should go there and download it.
 
@@ -34,7 +34,7 @@ Readings for this day:
                         Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
                         [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-Viewing for this day: [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM)
+Viewing for this day (please do not watch the entire 4.5 hour loop): [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM)
 
 Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
@@ -78,16 +78,17 @@ Topic: Machine Aesthetics
 Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
 Viewing for this Day: [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
 
-Supplementary:
+Supplementary: [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
 
 
 <!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
+
 ____________________________________
 
 Sept 18 |
 Topic: Electronic Aesthetics
 Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
-Viewing for this day: [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c)
+Viewing for this day: [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE), [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
 Supplementary:
 
 ____________________________________
@@ -96,6 +97,7 @@ Sept 23 |
 Topic: Algorithms
 Reading for this day: [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
                       [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+Viewing for this day: [Sieve of Eratosthenes animation]([Sieve animation](https://www.youtube.com/watch?v=dhfhu9Q5g8U),)
 Supplementary: [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
 
 ____________________________________
@@ -134,8 +136,8 @@ Supplementary:
 ____________________________________
 
 Oct 9 |
-Topic: Artificial Intelligence and Machine Learning
-Reading for this day: AI Art and Pixel Art: (Reading)
+Topic: AI Art and Pixel Art
+Reading for this day: : (Reading)
 Supplementary:
 
 ____________________________________
@@ -154,11 +156,14 @@ Supplementary:
 ____________________________________
 
 Oct 21 |
-Topic: Nostalgia 
+Topic: Nostalgia and Retro
 Reading for this day: 
+[Tech Nostalgia matters because it's the history of us](https://archive.is/SMtXn)
+[Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
 Supplementary: [old games](https://archive.org/details/msdos_Neuromancer_1988)
 [Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
-
+[Technological revolutionas and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
+Optional: watch an episode or two of Halt and Catch Fire (if you can find it somewhere)
 ____________________________________
 
 Oct 23 | 

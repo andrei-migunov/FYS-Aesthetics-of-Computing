@@ -2,6 +2,8 @@
 
 #google_analytics: UA-NNNNNNNN-N
 
+baseurl: "/~migunov/FYS-AOFC"
+
 header_pages:
  - index.md
  - schedule.md
