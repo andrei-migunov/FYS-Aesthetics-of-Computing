@@ -156,7 +156,8 @@ ____________________________________
 Oct 21 |
 Topic: Nostalgia 
 Reading for this day: 
-Supplementary: ([old games](https://archive.org/details/msdos_Neuromancer_1988)
+Supplementary: [old games](https://archive.org/details/msdos_Neuromancer_1988)
+[Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
 
 ____________________________________
 
