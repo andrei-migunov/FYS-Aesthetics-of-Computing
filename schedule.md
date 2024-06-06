@@ -111,6 +111,7 @@ Supplementary: [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67
 <!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
 
 <!-- There is always thrill involved, it's like the vibe of bank heist movies. Risk, reward, sometimes integrity and a sense of social justice. Criminality. -->
+
 ____________________________________
 
 Sept 30 | 
@@ -118,7 +119,7 @@ Topic: Cyberpunk (so-called)
 Reading for this day: Neuromancer Chs. 1 - 10
 Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
 Supplementary: Watch - Ghost in the Shell (1995)
-[Donna Haraway - Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
+<!-- [Donna Haraway - Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf) -->
 
 ____________________________________
 
@@ -165,6 +166,7 @@ Supplementary: [old games](https://archive.org/details/msdos_Neuromancer_1988)
 [Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
 [Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
 Optional: watch an episode or two of Halt and Catch Fire (if you can find it somewhere)
+
 ____________________________________
 
 Oct 23 | 
@@ -200,6 +202,7 @@ Supplementary:
 [William Basinski - <i>Disintegration Loops</i>](https://www.youtube.com/watch?v=LGddm-hw-Xc)
 [oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
 [Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
+
 ____________________________________
 
 Nov 6 |
