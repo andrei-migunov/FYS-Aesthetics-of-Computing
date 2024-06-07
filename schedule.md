@@ -175,6 +175,7 @@ Reading for this day: Bremmert - Ch. 4 (Chaotech)
 Listening for this day (you don't need to listen to the entire album): [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI)
 Supplementary: [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
 
+<!-- https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/ -->
 ____________________________________
 
 Oct 28 |
