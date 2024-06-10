@@ -61,8 +61,8 @@ ____________________________________
 
 Sept 9 | 
 Topic: Aesthetics and the Unconscious
-Reading for this day: Daniel Kahneman - Systems 1 and 2
-[Perceived Randomness](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
+Reading for this day: Daniel Kahneman - <i>Systems 1 and 2</i>
+[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 Supplementary: none  
 
 ____________________________________
