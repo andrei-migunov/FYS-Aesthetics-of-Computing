@@ -39,14 +39,36 @@ Attendance is part of the 'engagement' portion of your grade and unexcused absen
 
 Class time consists of discussion, writing, and looking back at selected passages from the readings. It is <b> not </b> the place to do the reading assignments (these have to be compelted <b> before </b> class). 
 
-In discussions, I will usually give you some questions to think about, and you'll talk to each other in small groups. Then we'll see if we can make progress on those questions in class. 
+In discussions, I will usually give you some questions to think about, and you'll talk to each other in small groups and spend some time writing individually. Then we'll see if we can sometimes make real progress on answering those questions in class. 
 
-After some discussion, I will give you some time to work on <i> low-stakes </i> writing. Think of this as a journal for <i> you </i>
+After some discussion, I will give you some time to work on your writing. You'll submit these assignments on our course Blackboard page.
 
 # GUIDELIES FOR DISCUSSION, READING, AND THIS CLASS IN GENERAL
 
-0. Be respectful and polite towards everyone. There is a 0% chance that we will all agree on everything, and sometimes we might be very serious about those disagreements to `boot`. You can believe your beliefs, even be certain of them, and still be unable to change anyone's mind. That does not mean you can resort to any sort of rude behavior or name-calling. It is absolutely out of the question. You must be respectful of your classmates. From the other side - sometimes another person's belief looks like a direct assault on ours (sometimes it is). We have to make an effort to accept others' shortcomings (whether it's that they are wrong (!!!) or aren't being particularly gentle) with grace and patience. Please come to the instructor with any serious interpersonal problems - I am always happy to hear you out and talk.
+0. <b>Respectful disagreement</b>: There is a 0% chance that we will all agree on everything, including things we feel strongly about. You can believe your beliefs, even be certain of them, and still be unable to change anyone's mind. That does not mean you can resort to any sort of rude behavior or name-calling. It is absolutely out of the question. You must be respectful of your classmates. From the other side - sometimes another person's belief looks like a direct assault on ours (sometimes it is). We have to make an effort to accept others' shortcomings (whether it's that they are wrong (!!!) or aren't being particularly gentle) with grace and patience. 
 
-1. Not all questions need or have definitive answers. They need to be thought about and "chewed" thoroughy. Our goal is to see things in new, different, and interesting ways, and to understand aesthetics. That means sitting with a question for a while.
+1. <b>Safety</b>: Please come to the instructor with any serious interpersonal problems - I am always happy to hear you out and talk, and I will take any serious issues seriously. If you have a concern, especially regarding your safety or someone else's, please reach out to me to discuss it privately.
 
-2. The quality of discussion is proportional to the care with which you did the reading. If most people did not read the text very closely, or did not take good notes on it and think about it, then we aren't going to be able to have a quality discussion. 
+2. <b>Studying the debate</b>: Not all questions need or have definitive answers. They need to be thought about and "chewed" thoroughy. Our goal is to see things in new, different, and interesting ways, and to understand aesthetics. That means sitting with a question for a while. It also means that in some ways, it's more interesting - and a surer sign of maturity and knowledge - to study the debates and different viewpoints, rather than taking a once-and-for-all position. 
+
+3. <b>Do the reading</b>: The quality of discussion is proportional to the care with which you did the reading. If most people did not read the text very closely, or did not take good notes on it and think about it, then we aren't going to be able to have a quality discussion. 
+
+4. <b>Use of class time</b>: During class time you must be focused and listening to others in the room. 
+
+# ACADEMIC INTEGRITY
+
+All students are expected to know and abide by the Drake University Academic Integrity Policy: 
+    <a href=https://www.drake.edu/studentlife/handbook-resources/handbook/academic/>https://www.drake.edu/studentlife/handbook-resources/handbook/academic/ </a>
+
+
+Students are encouraged to seek out resources for help in understanding concepts when completing coursework. However, there is a big difference between seeking outside resources for help in understanding and searching for solutions. All solutions prepared with the aid of any source, however minor, must specifically cite those sources and explain the relationship of the submitted solution to the source. All citations must include author names, titles, publication information, and links
+to electronic sources when they exist. For programming code, all such citations and explanations should be included with comments. When in doubt, be open and transparent about the use of sources. This will shift the issue away from a question of academic integrity penalties to a question of how many points to award for your contributions. A violation of the course's collaboration policy will also be considered an academic integrity violation.
+
+The minimum penalty for any violation of academic integrity will be a forfeiture of all points on the entire assignment or exam in question. Depending on the severity of the violation, an `F' for the course may be given. All violations will be reported to the College of Arts and Sciences Dean's office as explained in the Academic Integrity Policy.
+
+# STUDENT DISABILITY SERVICES
+If you have a disability and require academic or physical accommodations in this course, please contact me and Student Disability Services (Michelle Laughlin, Director of Student Disability Services, at 271-1835 or michelle.laughlin@drake.edu) in advance of the date the accommodations are needed. Student Disability Services will coordinate with me to ensure that the necessary accommodations are provided. <b>You must meet with me at least two weeks before an exam to discuss your accommodation, even if you have already received this accommodation from SDS.</b>
+
+# A NOTE
+The instructor reserves the right to modify this syllabus along with any course policies at
+any time during the semester.
