@@ -3,7 +3,9 @@ title: Grading
 layout: default
 permalink: /grading
 ---
+
 <!--https://www.drake.edu/dc/facultystaffresources/fysresources/fall2020fyssamplesyllabi/#d.en.345720 --> 
+
 # GRADING SCALE
 
 93-100.0% A
@@ -21,12 +23,12 @@ All your assignments for this class are described below and assigned a percentag
 
 # WHAT YOUR GRADE IS BASED ON
 
-4x Low-stakes writing assignments. 10% of grade total
-4x High-stakes writing assignments. 30% of grade total
+4x Low-stakes writing assignments. 10% of grade total.
+4x High-stakes writing assignments. 30% of grade total.
 1x Proposal for a final paper idea (1 page, double-spaced). 15% of grade total
-1x Final paper (6-8 pages, double-spaced). 30% of grade total
-1x Writing conversation assignment. 5% of grade total
-Participation 10% of grade total
+1x Final paper. 30% of grade total.
+1x Writing conversation assignment. 5% of grade total.
+Engagement (attendance and participation). 10% of grade total.
 
 
 That adds up to 100%. 
@@ -63,6 +65,18 @@ You can make your appointment here: <a href=https://library.drake.edu/writing-ce
 
 ## FINAL PAPER
 
+
+
+The centerpiece of your writing is the final paper. It should be an original contribution - something nobody has done before - to the topic described in your proposal.
+
+This paper cannot simply repeat discussions from class. If it uses those ideas, you must 
+
+1. credit the course discussions 
+2. significantly develop them into something more sophisticated, complex, and multifaceted. 
+
+You are welcome to weave together different threads of thought, but make sure to avoid simply re-treading a lot of old ground without adding much new. 
+
+The final paper must be 6-8 pages, double-spaced. If you want to write more, you must talk to me first.
 
 # LATE WORK AND EXTENSIONS
 
