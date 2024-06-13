@@ -3,7 +3,7 @@ title: Grading
 layout: default
 permalink: /grading
 ---
-
+<!--https://www.drake.edu/dc/facultystaffresources/fysresources/fall2020fyssamplesyllabi/#d.en.345720 --> 
 # GRADING SCALE
 
 93-100.0% A

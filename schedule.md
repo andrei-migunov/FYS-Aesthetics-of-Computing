@@ -31,16 +31,14 @@ Aug 28   |
 Topic: What is Aesthetics? & Aesthetics of the Everyday        
 
 Readings for this day: 
-                        Brummett - Rhetoric of Machine Aesthetics Ch. 1 *
+                        Brummett - Rhetoric of Machine Aesthetics Ch. 1 
                         [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-Viewing for this day (please do not watch the entire 4.5 hour loop): [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM)
+Viewing for this day (please do not watch the entire 4.5 hour loop): [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
 
 Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
 
-
-(*) I've made this book available through the Drake Library E-reserve system. You can access it via Blackboard.
 
 ____________________________________
 
@@ -215,14 +213,15 @@ Supplementary:
 ____________________________________
 
 Nov 11 |
-Topic: 
+Topic: Computers Themselves 
 Reading for this day: 
+Viewing for this day: [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
 Supplementary:
 
 ____________________________________
 
 Nov 13 |
-Topic: 
+Topic: Computers Themselves
 Reading for this day: 
 Supplementary:
 

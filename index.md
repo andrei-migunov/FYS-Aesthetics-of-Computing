@@ -25,6 +25,22 @@ Some of our questions: What is a computer? Is it a machine? What is beauty and h
 # > `...`
 # > `... loading ...`
 
+# READING, VIEWING, AND LISTENING
+
+Reading is a major part of this course, possibly the most important part. Reading does not mean simply parsing the words on the page. It means thinking carefully in order to understand their meaning. This is a basic responsibility and cannot be waived. It is *your* job to understand our readings, they cannot be 'digested' *for* you. If you don't try your absolute best to understand them, then we cannot discuss them. You will read material that is challenging, and you might see words you are not familiar with. It is your responsibility to look them up. That said, don't get hung up on everything all the time. Exercise your judgment to decide how you read, when you really need to look something up, when it's an inessential thing you can skip over at least for now, etc. Read slowly and carefully, and always read the entire assigned reading. When you finish reading something, rephrase it in your own words to yourself. Sometimes you can't do that on the first pass, and you need to take another look.  
+
+Some days, in addition to reading, we will watch movies or videos, or look at some art, or listen to some music. In some ways, this is "reading," too. It requires focus and care and an attempt to <i>understand and experience</i> those things and the <i>claims they make</i>, and you are expected to do your best. Part of the fun of this class is comparing how you "read" such things <i> aesthetically </i> to how others do.
+
+<a href=https://1000wordphilosophy.com/teaching/reading/#:~:text=philosophers%20very%20often%20write%20in,doubting%20a%20claim%20and%20why.> Some good tips on reading </i>
+
+# WRITING
+
+We could have a whole semester course on just the question: "what is writing?". For now, let's just stick with what our writing should *do*. 
+
+We write for others and for ourselves. We can write to lay out and better orgainze our own (often jumbled and confused) ideas and thoughts. This fits with our 'low-stakes' writing assignments, and personal journaling: we use these to get a grasp on what we're thinking and feeling. We can write to convince others of a claim or really flesh out a coherent feeling or experience, to resolve contradictions in our thoughts and beliefs where they don't naturally line up that well - this fits with the high-stakes writing assignments. Lastly, we can write with even greater ambition - to put an idea or a claim in the most "honest light," to defend an idea thoroughly and convince others of it, to show ourselves and others the full richness and force of an artistic or other experience. This is the final product of our writing at the end of the semester - the final paper. Whether we write for others or for ourselves, writing makes us better, more accountable people and helps us see more clearly. Good writing tries to show us something new, tries to anticipate what our readers might already think, tries to explain ideas more clearly than they've been explained before. There are a lot of things good writing can do, and you can shoot for any combination of them. 
+
+Your goal in this class is to become better, clearer, and more able to communicate ideas to other people.
+
 # ATTENDANCE
 
 You are expected to attend every class. Two absences are excused by default (for these, you do not have to ask me or let me know you will be gone). Any absences beyond the first two must be documented. For that reason, it's actually better to document <i>all</i> of your absences - to avoid having to use up the 'freebies'. Documenting your absence means having some proof that your absences was a valid one - illness, job interview, etc. Proof is any clear evidence that you are gone for the reason you say - a doctor's note with a date and reason for visit, an interview letter that shows the date of your interview, etc. Not every absence can be or needs to be documented (e.g. - I do not require documentation for absence due to the passing of a loved one, which unfortunately happens.) These absences are 'covered' by the two 'free' absences. You are always welcome to communicate with me about your attendance needs, and I am always willing to hear you out.
