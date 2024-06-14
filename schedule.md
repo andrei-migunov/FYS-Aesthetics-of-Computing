@@ -16,10 +16,11 @@ First-year seminars tend to read about 25 pages per day. That number is an avera
 
 Our detailed schedule of readings is below. Any reading that is not hyperlinked is available in Blackboard - so you should go there and download it.
 
+Supplementary readings are <i>optional</i> and you are not required to read them, though you are encouraged to!
 
 # Detailed Schedule
 
-Aug 26   |   
+Aug 26   |
 Topic: Welcome to Drake!
 Reading for this day: (Do the readings for the next meeting)
 
@@ -34,9 +35,11 @@ Readings for this day:
                         Brummett - Rhetoric of Machine Aesthetics Ch. 1 
                         [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-Viewing for this day (please do not watch the entire 4.5 hour loop): [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
+Viewing for this day (please do not watch the entire 4.5 hour loop): 
+                        [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), [Machine fabrication](https://www.youtube.com/watch?v=s-yne8xTNM0), [Coding](https://www.youtube.com/watch?v=iG6M-vt-4JY), [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
 
-Supplementary: [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+Supplementary: 
+                        [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
 
 
@@ -49,35 +52,43 @@ ____________________________________
 
 Sept 4    | 
 Topic: Aesthetic Theory
-Reading for this day: Susan Sontag - <i>Against Interpretation  </i>
-Supplementary: [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
-
-Henri Lefebvre - Excerpt from <i>Critique of Everyday Life</i>
+Reading for this day: 
+                        Susan Sontag - <i>Against Interpretation  </i>
+Supplementary: 
+                        [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
+<!-- 
+                        Henri Lefebvre - Excerpt from <i>Critique of Everyday Life</i> -->
 
 ____________________________________
 
 
 Sept 9 | 
 Topic: Aesthetics and the Unconscious
-Reading for this day: Daniel Kahneman - <i>Systems 1 and 2</i>
-[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
+Reading for this day: 
+                        Daniel Kahneman - <i>Systems 1 and 2</i>
+                        [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 Supplementary: none  
 
 ____________________________________
 
 Sept 11 |
 Topic: Aesthetics and the Unconscious
-Reading for this day: Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
-Supplementary: Bill Livant - The Hole in Hegel's Bagel
+Reading for this day: 
+                        Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
+Supplementary: 
+                        Bill Livant - The Hole in Hegel's Bagel
 
 ____________________________________
 
 Sept 16 |
 Topic: Machine Aesthetics
-Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
-Viewing for this Day: [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
+Reading for this day: 
+                        Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
+Viewing for this Day: 
+                        [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), 
 
-Supplementary: [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
+Supplementary: 
+                        [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
 
 
 <!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
@@ -86,60 +97,73 @@ ____________________________________
 
 Sept 18 |
 Topic: Electronic Aesthetics
-Reading for this day: Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
-Viewing for this day: [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE), [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
-Supplementary:
+Reading for this day: 
+                        Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
+Viewing for this day: 
+                        [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
+                        [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
+                        [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
+                        [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
+Supplementary: none
 
 ____________________________________
 
 Sept 23 |
-Topic: Algorithms
-Reading for this day: [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
-                      [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-Viewing for this day: [Sieve of Eratosthenes animation]([Sieve animation](https://www.youtube.com/watch?v=dhfhu9Q5g8U),)
-Supplementary: [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
+Topic: Computers Themselves 
+Reading for this day: 
+Viewing for this day: 
+                        [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
+Supplementary:
 
 ____________________________________
 
 Sept 25 | 
-Topic: Hacker Culture
-Reading for this day: [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
-Supplementary: [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
-[Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
+Topic: Computers Themselves
+Reading for this day: 
+Supplementary:
 
-<!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
 
-<!-- There is always thrill involved, it's like the vibe of bank heist movies. Risk, reward, sometimes integrity and a sense of social justice. Criminality. -->
 
 ____________________________________
 
 Sept 30 | 
 Topic: Cyberpunk (so-called)
-Reading for this day: Neuromancer Chs. 1 - 10
-Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
-Supplementary: Watch - Ghost in the Shell (1995)
+Reading for this day: 
+                        Neuromancer Chs. 1 - 10
+Viewing for this day: 
+                        [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
+Supplementary: 
+                        Watch - Ghost in the Shell (1995)
 <!-- [Donna Haraway - Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf) -->
 
 ____________________________________
 
 Oct 2 |
 Topic: Cyberpunk (so-called)
-Reading for this day: Neuromancer Chs. 1 - 10
+Reading for this day: 
+                        Neuromancer Chs. 1 - 10
 Supplementary: 
 
 ____________________________________
 
 Oct 7 |
 Topic: Artificial Intelligence and Machine Learning
-Reading for this day: Logic Magazine on Data Science
+Reading for this day: 
+                        Logic Magazine on Data Science
 Supplementary:
 
 ____________________________________
 
 Oct 9 |
 Topic: AI Art and Pixel Art
-Reading for this day: : (Reading)
-Supplementary:
+Reading for this day: : 
+                        [(skim) Wikipedia - Artificial Intelligence Art](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
+                        [Harvard Gazette - Is Art Generated by AI Real Art?](https://news.harvard.edu/gazette/story/2023/08/is-art-generated-by-artificial-intelligence-real-art/)
+                        [Quiz - Real or AI?](https://britannicaeducation.com/blog/quiz-real-or-ai/)
+
+Viewing for this day: 
+                        [Waneela - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)         
+Supplementary: 
 
 ____________________________________
 
@@ -159,20 +183,23 @@ ____________________________________
 Oct 21 |
 Topic: Nostalgia and Retro
 Reading for this day: 
-[Tech Nostalgia matters because it's the history of us](https://archive.is/SMtXn)
-[Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
-Supplementary: [old games](https://archive.org/details/msdos_Neuromancer_1988)
-[Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
-[Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
-Optional: watch an episode or two of Halt and Catch Fire (if you can find it somewhere)
+                        [Tech Nostalgia matters because it's the history of us](https://archive.is/SMtXn)
+                        [(skim) Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
+Supplementary: 
+                        [old games](https://archive.org/details/msdos_Neuromancer_1988)
+                        [Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
+                        [Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
+
 
 ____________________________________
 
 Oct 23 | 
 Topic: Aesthetics of Machine Decay 
-Reading for this day: Bremmert - Ch. 4 (Chaotech) 
-Listening for this day (you don't need to listen to the entire album): [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI)
-Supplementary: [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
+Reading for this day: 
+                        Bremmert - Ch. 4 (Chaotech) 
+                        Listening for this day (you don't need to listen to the entire album): [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI)
+Supplementary: 
+                        [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
 
 <!-- https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/ -->
 ____________________________________
@@ -193,37 +220,58 @@ ____________________________________
 
 Nov 4 |
 Topic: Computer and Electronic Music
-Reading for this day:  [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
-Listening for this day: [Burial - <i>Archangel</i>](https://www.youtube.com/watch?v=E2qLD9c3Gq4), [Sample breakdown of <i>Archangel</i>](https://www.youtube.com/watch?v=rmOuV0ZvAgU), 
-[(some of) Aphex Twin - <i>Selected Ambiet Works 85-92</i>](https://www.youtube.com/watch?v=Xw5AiRVqfqk)
+Reading for this day:  
+                        [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
+Viewing for this day: 
+                        [Wendy Carlos](https://www.youtube.com/watch?v=UsW2EDGbDqg)
+Listening for this day: 
+                        [Burial - <i>Archangel</i>](https://www.youtube.com/watch?v=E2qLD9c3Gq4), [Sample breakdown of <i>Archangel</i>](https://www.youtube.com/watch?v=rmOuV0ZvAgU), 
+                        [(some of) Aphex Twin - <i>Selected Ambiet Works 85-92</i>](https://www.youtube.com/watch?v=Xw5AiRVqfqk)
+                        [Nils Frahm - <i>Says</i>](https://www.youtube.com/watch?v=xLNeZogTsK8)
 Supplementary: 
-[Burial - <i>Forgive</i>](https://www.youtube.com/watch?v=f-Bn8h2TtdU)
-[Ikonika - <i>Please</i>](https://www.youtube.com/watch?v=6Lzk_tGQB9w)
-[William Basinski - <i>Disintegration Loops</i>](https://www.youtube.com/watch?v=LGddm-hw-Xc)
-[oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
-[Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
+                        [Burial - <i>Forgive</i>](https://www.youtube.com/watch?v=f-Bn8h2TtdU)
+                        [Ikonika - <i>Please</i>](https://www.youtube.com/watch?v=6Lzk_tGQB9w)
+                        [William Basinski - <i>Disintegration Loops</i>](https://www.youtube.com/watch?v=LGddm-hw-Xc)
+                        [oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
+                        [Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
+                        [(Documentary) Delia Derbyshire - <i>The Delian Mode</i>](https://www.youtube.com/watch?v=n2dvGQ32q8g)
 
 ____________________________________
 
 Nov 6 |
 Topic: Computer and Electronic Music
 Reading for this day: 
+Viewing for this day: 
 Supplementary:
 
 ____________________________________
 
 Nov 11 |
-Topic: Computers Themselves 
+Topic: Hacker Culture
 Reading for this day: 
-Viewing for this day: [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
-Supplementary:
+                        [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
+Viewing for this day: 
+                        [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
+Supplementary: 
+                        [Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
+						
+						
+					<!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
+
+<!-- There is always thrill involved, it's like the vibe of bank heist movies. Risk, reward, sometimes integrity and a sense of social justice. Criminality. -->
 
 ____________________________________
 
 Nov 13 |
-Topic: Computers Themselves
+Topic: Algorithms
 Reading for this day: 
-Supplementary:
+                        [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+                        [Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+Viewing for this day: 
+                        [Sieve of Eratosthenes animation]([Sieve animation](https://www.youtube.com/watch?v=dhfhu9Q5g8U),)
+Supplementary: 
+                        [Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
+
 
 ____________________________________
 
