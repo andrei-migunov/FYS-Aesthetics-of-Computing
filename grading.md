@@ -49,10 +49,9 @@ A list of the low-stakes assignments, below:
 
 Write a page addressing <b>all</b> of the following:
 
-a.) Do you agree with Sontag that we should think about art in terms of the way we experience it? (Optional:) Does Heidegger think that too? 
-b.) Describe an aesthetic experience you've had. 
-c.) Describe an 'everyday' aesthetic experience you've had.
-
+a.) Do you agree with Sontag that we should think about art in terms of the way we experience it? Answer in detail. You don't have to agree entirely, or disagree entirely. Nuance is good! (Optional challenge mode:) How does it relate to Heidegger's views and the phenomenology of art?
+b.) Describe an aesthetic experience you've had. Focus on "what was it like?," rather than "does it qualify as art?". 
+c.) Describe an 'everyday' aesthetic experience you've had. What makes it 'everyday', and what was its aesthetic dimension?
 
 2. TBD
 
