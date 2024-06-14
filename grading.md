@@ -46,7 +46,12 @@ These are general descriptions of the nature of each assignment type.
 A list of the low-stakes assignments, below:
 
 1. (Due on Blackboard by September 6th, 11:59pm.)
-Do you agree with Sontag that we should think about art in terms of the way we experience it? Does Heidegger think that too?
+
+Write a page addressing <b>all</b> of the following:
+
+a.) Do you agree with Sontag that we should think about art in terms of the way we experience it? (Optional:) Does Heidegger think that too? 
+b.) Describe an aesthetic experience you've had. 
+c.) Describe an 'everyday' aesthetic experience you've had.
 
 
 2. TBD
