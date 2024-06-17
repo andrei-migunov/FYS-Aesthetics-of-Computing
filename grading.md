@@ -71,8 +71,8 @@ The centerpiece of your writing is the final paper. It should be an original con
 
 This paper cannot simply repeat discussions from class. If it uses those ideas, you must 
 
-1. credit the course discussions 
-2. significantly develop them into something more sophisticated, complex, and multifaceted. 
+1. Credit the course discussions 
+2. Significantly develop them into something more sophisticated, complex, and multifaceted. 
 
 You are welcome to weave together different threads of thought, but make sure to avoid simply re-treading a lot of old ground without adding much new. 
 
