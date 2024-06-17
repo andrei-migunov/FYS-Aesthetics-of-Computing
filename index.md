@@ -8,9 +8,9 @@ permalink: /index
 
 ### First Year Seminar - Drake University - Fall 2024
 
-### Welcome to Aesthetics of Computing! My name is Andrei - I am your professor - and I am so excited to have you in my class and to get to know you over the next weeks and months! Please make sure to read the entirety of the syllabus below, so you can know our policies, what's expected of you, what you can expect from me, and what the class is going to be about!
+### Welcome to Aesthetics of Computing! My name is Andrei - I am your professor - and I am so excited to have you in my class and to get to know you over the next weeks and months! Please make sure to read the entirety of the syllabus (course policies and information) below, so you can know our policies, what's expected of you, what you can expect from me, and what the class is going to be about!
 
-# > `...` `accessing CourseObjectives.txt`
+# > `...` `accessing Syllabus.txt`
 # > `...`
 # > `... loading ...`
 
@@ -21,17 +21,16 @@ Some of our topics: the hacker aesthetic, computer music, aesthetic theory, gami
 
 Some of our questions: What is a computer? Is it a machine? What is beauty and how does it manifest in the design of computers and related things? Why do themes like cyberpunk and hacking have such appeal? How is understanding something aesthetically related to understanding its function? How does it go beyond? What do we mean in philosophy by 'form' and 'content'? How do the appearances of things affect how we understand those things? What is the nature of the appeal of electronic and other 'computer music'? What do artistic representations of machies and technology make us feel? What is a video game? How does nostalgia for the past affect how we think and feel about older technologies?
 
-# > `...` `accessing Attendance.txt`
-# > `...`
-# > `... loading ...`
+When you go to look at the schedule linked above - you might think an important topic, reading, idea, or even particular aesthetic object (a song, picture, movie) is missing. If so, tell me! Convince me it matters, and it'll become part of the class!
 
 # READING, VIEWING, AND LISTENING
 
-Reading is a major part of this course, possibly the most important part. Reading does not mean simply parsing the words on the page. It means thinking carefully in order to understand their meaning. This is a basic responsibility and cannot be waived. It is *your* job to understand our readings, they cannot be 'digested' *for* you. If you don't try your absolute best to understand them, then we cannot discuss them. You will read material that is challenging, and you might see words you are not familiar with. It is your responsibility to look them up. That said, don't get hung up on everything all the time. Exercise your judgment to decide how you read, when you really need to look something up, when it's an inessential thing you can skip over at least for now, etc. Read slowly and carefully, and always read the entire assigned reading. When you finish reading something, rephrase it in your own words to yourself. Sometimes you can't do that on the first pass, and you need to take another look.  
+Reading is a major part of this course, possibly the most important part. Reading does not mean simply parsing the words on the page. It means thinking carefully in order to understand their meaning. This is a basic responsibility and cannot be waived. It is *your* job to understand our readings, they cannot be 'digested' *for* you. If you don't try your absolute best to understand them, then we cannot discuss them. You will read material that is challenging, and you might see words you are not familiar with. It is your responsibility to look them up. That said, don't get hung up on everything all the time. Exercise your best judgment to decide how you read, when you really need to look something up, when it's an inessential thing you can skip over at least for now, etc. Read slowly and carefully, and always read the entire assigned reading. When you finish reading something, rephrase it in your own words to yourself. Sometimes you can't do that on the first pass, and you need to take another look.  
 
-Some days, in addition to reading, we will watch movies or videos, or look at some art, or listen to some music. In some ways, this is "reading," too. It requires focus and care and an attempt to <i>understand and experience</i> those things and the <i>claims they make</i>, and you are expected to do your best. Part of the fun of this class is comparing how you "read" such things <i> aesthetically </i> to how others do.
+Some days, in addition to reading, we will watch movies or videos, or look at some art, or listen to some music. In some ways, this is "reading," too. It requires focus, care, and an attempt to <i>experience</i> those things and <i>understand</i> the claims they make. I expect you to do your best. Part of the fun of this class is comparing how you "read" such things <i> aesthetically </i> to how others do.
 
-<a href=https://1000wordphilosophy.com/teaching/reading/#:~:text=philosophers%20very%20often%20write%20in,doubting%20a%20claim%20and%20why.> Some good tips on reading </i>
+<a href=https://1000wordphilosophy.com/teaching/reading/#:~:text=philosophers%20very%20often%20write%20in,doubting%20a%20claim%20and%20why.> Some good tips on reading </a>
+
 
 # WRITING
 
@@ -41,15 +40,12 @@ We write for others and for ourselves. We can write to lay out and better orgain
 
 Your goal in this class is to become better, clearer, and more able to communicate ideas to other people.
 
+
 # ATTENDANCE
 
 You are expected to attend every class. Two absences are excused by default (for these, you do not have to ask me or let me know you will be gone). Any absences beyond the first two must be documented. For that reason, it's actually better to document <i>all</i> of your absences - to avoid having to use up the 'freebies'. Documenting your absence means having some proof that your absences was a valid one - illness, job interview, etc. Proof is any clear evidence that you are gone for the reason you say - a doctor's note with a date and reason for visit, an interview letter that shows the date of your interview, etc. Not every absence can be or needs to be documented (e.g. - I do not require documentation for absence due to the passing of a loved one, which unfortunately happens.) These absences are 'covered' by the two 'free' absences. You are always welcome to communicate with me about your attendance needs, and I am always willing to hear you out.
 
 Attendance is part of the 'engagement' portion of your grade and unexcused absences will negatively affect your grade. Please see the 'grading' page of the course website for more detail.
-
-# > ...
-# > ...
-# > ...
 
 # THE AVERAGE DAY OF CLASS
 
@@ -86,5 +82,4 @@ The minimum penalty for any violation of academic integrity will be a forfeiture
 If you have a disability and require academic or physical accommodations in this course, please contact me and Student Disability Services (Michelle Laughlin, Director of Student Disability Services, at 271-1835 or michelle.laughlin@drake.edu) in advance of the date the accommodations are needed. Student Disability Services will coordinate with me to ensure that the necessary accommodations are provided. <b>You must meet with me at least two weeks before an exam to discuss your accommodation, even if you have already received this accommodation from SDS.</b>
 
 # A NOTE
-The instructor reserves the right to modify this syllabus along with any course policies at
-any time during the semester.
+The instructor reserves the right to modify this syllabus along with any course policies at any time during the semester. 
