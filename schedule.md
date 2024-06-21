@@ -85,7 +85,7 @@ Topic: Machine Aesthetics
 Reading for this day: 
                         Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
 Viewing for this Day: 
-                        [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](https://static.wikia.nocookie.net/studio-ghibli/images/e/e6/Howls_Castle.jpg/revision/latest?cb=20181028002157), 
+                        [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](assets/howlscastle.png), 
 
 Supplementary: 
                         [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
