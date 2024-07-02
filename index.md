@@ -29,7 +29,7 @@ Reading is a major part of this course, possibly the most important part. Readin
 
 Some days, in addition to reading, we will watch movies or videos, or look at some art, or listen to some music. In some ways, this is "reading," too. It requires focus, care, and an attempt to <i>experience</i> those things and <i>understand</i> the claims they make. I expect you to do your best. Part of the fun of this class is comparing how you "read" such things <i> aesthetically </i> to how others do.
 
-<a href=https://1000wordphilosophy.com/teaching/reading/#:~:text=philosophers%20very%20often%20write%20in,doubting%20a%20claim%20and%20why.> Some good tips on reading </a>
+<a href="https://1000wordphilosophy.com/teaching/reading/#:~:text=philosophers%20very%20often%20write%20in,doubting%20a%20claim%20and%20why."> Some good tips on reading </a>
 
 
 # WRITING
@@ -69,12 +69,10 @@ After some discussion, I will give you some time to work on your writing. You'll
 
 # ACADEMIC INTEGRITY
 
-All students are expected to know and abide by the Drake University Academic Integrity Policy: 
-    <a href=https://www.drake.edu/studentlife/handbook-resources/handbook/academic/>https://www.drake.edu/studentlife/handbook-resources/handbook/academic/ </a>
+All students are expected to know and abide by the <a href="https://www.drake.edu/studentlife/handbook-resources/handbook/academic/">Drake University Academic Integrity Policy (click here to read)</a>.
 
 
-Students are encouraged to seek out resources for help in understanding concepts when completing coursework. However, there is a big difference between seeking outside resources for help in understanding and searching for solutions. All solutions prepared with the aid of any source, however minor, must specifically cite those sources and explain the relationship of the submitted solution to the source. All citations must include author names, titles, publication information, and links
-to electronic sources when they exist. For programming code, all such citations and explanations should be included with comments. When in doubt, be open and transparent about the use of sources. This will shift the issue away from a question of academic integrity penalties to a question of how many points to award for your contributions. A violation of the course's collaboration policy will also be considered an academic integrity violation.
+Students are encouraged to seek out resources for help in understanding concepts when completing coursework. However, there is a big difference between seeking outside resources for help in understanding and searching for solutions. All solutions prepared with the aid of any source, however minor, must specifically cite those sources and explain the relationship of the submitted solution to the source. All citations must include author names, titles, publication information, and links to electronic sources when they exist. For programming code, all such citations and explanations should be included with comments. When in doubt, be open and transparent about the use of sources. This will shift the issue away from a question of academic integrity penalties to a question of how many points to award for your contributions. A violation of the course's collaboration policy will also be considered an academic integrity violation.
 
 The minimum penalty for any violation of academic integrity will be a forfeiture of all points on the entire assignment or exam in question. Depending on the severity of the violation, an `F' for the course may be given. All violations will be reported to the College of Arts and Sciences Dean's office as explained in the Academic Integrity Policy.
 

@@ -37,35 +37,24 @@ That adds up to 100%.
 
 Everything due in this class is due on a Friday.  
 
-These are general descriptions of the nature of each assignment type.
+These are general descriptions of the nature of each assignment type. The assignments themselves will be made available on 
 
 ## LOW STAKES ASSIGNMENTS
 
-
-
-A list of the low-stakes assignments, below:
-
-1. (Due on Blackboard by September 6th, 11:59pm.)
-
-Write a page addressing <b>all</b> of the following:
-
-a.) Do you agree with Sontag that we should think about art in terms of the way we experience it? Answer in detail. You don't have to agree entirely, or disagree entirely. Nuance is good! (Optional challenge mode:) How does it relate to Heidegger's views and the phenomenology of art?
-b.) Describe an aesthetic experience you've had. Focus on "what was it like?," rather than "does it qualify as art?". 
-c.) Describe an 'everyday' aesthetic experience you've had. What makes it 'everyday', and what was its aesthetic dimension?
-
-2. TBD
-
-...
+Low stakes assignments exist so that you can practice writing and get feedback, without any cost to your grade. Low stakes assignments are graded based on whether or not you attempted them at all. However, you need to use them to try to improve and you need to incorporate feedback on low stakes assignments into your high stakes assignments. You can be informal in these assignments, and you should use them as opportunities to get your ideas and your reactions to others' ideas out onto paper.
 
 ## HIGH STAKES ASSIGNMENTS
+
+Good writing is good thinking. High stakes assignments exist to actually assess and grade your writing quality, and also the quality of your own thinking about the material you're writing about - other than the final paper, they're the main source of your grade points. You need to do your best on them, and write thoughtful, clean, quality work that shows that you've digested the ideas and spent time with them one-on-one. You need to express and defend your ideas, support them with evidence, and cite your sources. These are all things you should be trying to do in low stakes assignments as well, but on high stakes assignments they earn (or cost) you points. You can’t fully engage with an idea, theme, or problem until you, yourself, write about it and commit your best thoughts to paper.
 
 ## WRITING CONVERSATION ASSIGNMENT
 The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. Make an appointment, visit them, and you will get the points for this assignment.
 
-You can make your appointment here: <a href=https://library.drake.edu/writing-center/>Drake Writing Center</a>
+You can make your appointment here: <a href=https://library.drake.edu/writing-center/>Drake Writing Center</a>.
 
 ## PROPOSAL FOR A FINAL PAPER IDEA
 
+You must propose (to the instructor) a topic on which you will write at length (6-8 pages). The proposal itself can be fairly short - about half a page. It must discuss some of the main points you might hit in your paper, but of course you don't need to have spelled them all out to yourself in detail yet.
 
 ## FINAL PAPER
 
