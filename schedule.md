@@ -18,6 +18,11 @@ Our detailed schedule of readings is below. Any reading that is not hyperlinked 
 
 Supplementary readings are <i>optional</i> and you are not required to read them, though you are encouraged to!
 
+
+# Assignments
+
+All assignments are posted <a href="https://docs.google.com/spreadsheets/d/1qB1QgjPhYQgD4gCDe4W9ovCVcv8H1Q3d5pW-EZvuu_Y/edit?usp=sharing">here (click)</a>. Remember you can only access that page with your @drake.edu email account. The expectations of the assignments are described on the 'Grading' page. Check that page often and make sure to submit on time!
+
 # Detailed Schedule
 
 Aug 26   |
