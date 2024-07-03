@@ -115,9 +115,8 @@ ____________________________________
 
 Sept 23 |
 Topic: Computers Themselves 
-Reading for this day: 
-Viewing for this day: 
-[Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
+Reading for this day: [Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
+Viewing for this day: [Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
 Supplementary:
 
 ____________________________________
