@@ -72,7 +72,7 @@ Topic: Aesthetics and the Unconscious
 Reading for this day: 
 Daniel Kahneman - <i>Systems 1 and 2</i>
 [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
-Supplementary: none  
+
 
 ____________________________________
 
@@ -89,11 +89,9 @@ Sept 16 |
 Topic: Machine Aesthetics
 Reading for this day: 
 Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech)
+[Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
 Viewing for this Day: 
 [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/), [Howl's Moving Castle](assets/howlscastle.png), 
-
-Supplementary: 
-[Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
 
 
 <!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
@@ -108,7 +106,7 @@ Viewing for this day:
 [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
 [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
 [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
-[Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), 
+[Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm) 
 Supplementary: none
 
 ____________________________________
@@ -122,39 +120,37 @@ Supplementary:
 ____________________________________
 
 Sept 25 | 
-Topic: Computers Themselves
-Reading for this day: 
-Supplementary:
+Topic: Theory of Computation
+Reading for this day: P vs NP, the Halting Problem
+Supplementary: Church Turing Thesis
 
 
 
 ____________________________________
 
 Sept 30 | 
-Topic: Cyberpunk (so-called)
+Topic: Cyberpunk 
 Reading for this day: 
 Neuromancer Chs. 1 - 10
-Viewing for this day: 
-[Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ]()
-Supplementary: 
-Watch - Ghost in the Shell (1995)
-<!-- [Donna Haraway - Cyborg Manifesto](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf) -->
+Supplementary: [Donna Haraway's <i>Cyborg Manifesto</i>](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
 
 ____________________________________
 
 Oct 2 |
-Topic: Cyberpunk (so-called)
-Reading for this day: 
-Neuromancer Chs. 1 - 10
-Supplementary: 
+Topic: Cyberpunk
+Reading for this day: none
+Viewing for this day: Watch the movie [Ghost in the Shell](https://www.youtube.com/watch?v=iHil4Y4r3Wk)
+Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff08bfeb5-7faa-4270-a9e1-b81d353ec22d_1200x675.jpeg)
+
 
 ____________________________________
 
 Oct 7 |
 Topic: Artificial Intelligence and Machine Learning
 Reading for this day: 
-Logic Magazine on Data Science
+[Scientific American - Google Engineer Claims AI Chatbot Is Sentient: Why That Matters](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)]
 Supplementary:
+[NVIDIA - Understanding Aesthetics Using Deep Learning](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
 ____________________________________
 
