@@ -45,6 +45,7 @@ Viewing for this day (please do not watch the entire 4.5 hour loop):
 
 Supplementary: 
 [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+[CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
 
 
 
