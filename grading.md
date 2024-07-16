@@ -33,11 +33,18 @@ Engagement (attendance and participation). 10% of grade total.
 
 That adds up to 100%. 
 
-# ASSIGNMENTS AND DUE DATES
+## ASSIGNMENTS AND DUE DATES
 
 Everything due in this class is due on a Friday.  
 
-These are general descriptions of the nature of each assignment type. The assignments themselves will be made available on 
+These are general descriptions of the nature of each assignment type. The assignments themselves will be made available on Blackboard.
+
+## FEEDBACK ON YOUR WORK
+
+I'll give you feedback on what you write, and I will give more detailed feedback on high-stakes assignments. I will work closely with you on your final paper to help you turn it into something you can be proud of - but you will have to take the initiative to come to me for that sort of collaboration. I will not tell you which direction you must go, but I will tell you whether I think you're communicating effectively and how you might improve it. I will point out any *habitual* grammar issues, but I will *never* deduct points for grammar. All of my feedback will be with the aim of helping you improve as a writer and thinker.
+
+I am always happy to give you *even more* feedback - but *you must ask for it yourself*. Always feel free to send me an email that says "I want more feedback about XYZ", or let me know in person. 
+
 
 ## LOW STAKES ASSIGNMENTS
 
@@ -48,17 +55,15 @@ Low stakes assignments exist so that you can practice writing and get feedback, 
 Good writing is good thinking. High stakes assignments exist to actually assess and grade your writing quality, and also the quality of your own thinking about the material you're writing about - other than the final paper, they're the main source of your grade points. You need to do your best on them, and write thoughtful, clean, quality work that shows that you've digested the ideas and spent time with them one-on-one. You need to express and defend your ideas, support them with evidence, and cite your sources. These are all things you should be trying to do in low stakes assignments as well, but on high stakes assignments they earn (or cost) you points. You can’t fully engage with an idea, theme, or problem until you, yourself, write about it and commit your best thoughts to paper.
 
 ## WRITING CONVERSATION ASSIGNMENT
-The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. Make an appointment, visit them, and you will get the points for this assignment.
+The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>two</b> appointments, visit the writing center, and then you will get the points for this assignment.
 
-You can make your appointment here: <a href=https://library.drake.edu/writing-center/>Drake Writing Center</a>.
+You can make your appointments here: <a href="Starfish Website TBD"> Drake Writing Center </a>.
 
 ## PROPOSAL FOR A FINAL PAPER IDEA
 
 You must propose (to the instructor) a topic on which you will write at length (6-8 pages). The proposal itself can be fairly short - about half a page. It must discuss some of the main points you might hit in your paper, but of course you don't need to have spelled them all out to yourself in detail yet.
 
 ## FINAL PAPER
-
-
 
 The centerpiece of your writing is the final paper. It should be an original contribution - something nobody has done before - to the topic described in your proposal.
 
