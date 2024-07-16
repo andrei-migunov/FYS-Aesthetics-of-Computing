@@ -107,7 +107,7 @@ Viewing for this day:
 [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
 [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
 [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
-[Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm) 
+
 Supplementary: none
 
 ____________________________________
@@ -176,8 +176,9 @@ ____________________________________
 
 Oct 16 |
 Topic: Cybernetics
-Reading for this day:  
-Supplementary:
+Reading for this day:  [Stafford Beer - Designing Freedom Ch.1](https://monoskop.org/images/e/e3/Beer_Stafford_Designing_Freedom.pdf)
+Viewing for this day: [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
+Supplementary: [Norbert Wiener - Cybernetics](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
 
 ____________________________________
 
