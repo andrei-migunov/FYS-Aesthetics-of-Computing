@@ -49,7 +49,13 @@ Attendance is part of the 'engagement' portion of your grade and unexcused absen
 
 # OFFICE HOURS
 
-Office hours are a time to talk to the professor, get clarification, ask questions, talk through ideas and concepts, solve problems, etc. You are welcome at my office hours and I'd love to see you there. My office hours are Mondays and Tuesdays, from 2pm to 4pm in Collier-Scripps Room 321. I can also set office hours by appointment - so if you *can't make it* to the standard office hours, please email me and let's set up a time! I promise it's no inconvenience - and time spent in office hours can be very rewarding!
+Office hours are a time to talk to the professor, get clarification, ask questions, talk through ideas and concepts, solve problems, etc. You are welcome at my office hours and I'd love to see you there. My office hours are always in Collier-Scripps Room 321. I can also set office hours by appointment - so if you *can't make it* to the standard office hours, please email me and let's set up a time! I promise it's no inconvenience - and time spent in office hours can be very rewarding!
+
+My office hours this semester are:
+
+Mondays from 2pm-4pm,
+Tuesdays from 2pm-4pm,
++ by appointment
 
 # THE AVERAGE DAY OF CLASS
 
