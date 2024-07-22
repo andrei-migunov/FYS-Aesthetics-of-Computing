@@ -55,7 +55,7 @@ My office hours this semester are:
 
 Mondays from 2pm-4pm,
 Tuesdays from 2pm-4pm,
-+ by appointment
+or by appointment
 
 # THE AVERAGE DAY OF CLASS
 
