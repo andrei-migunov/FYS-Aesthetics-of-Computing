@@ -89,5 +89,17 @@ The minimum penalty for any violation of academic integrity will be a forfeiture
 # STUDENT DISABILITY SERVICES
 If you have a disability and require academic or physical accommodations in this course, please contact me and Student Disability Services (Michelle Laughlin, Director of Student Disability Services, at 271-1835 or michelle.laughlin@drake.edu) in advance of the date the accommodations are needed. Student Disability Services will coordinate with me to ensure that the necessary accommodations are provided. <b>You must meet with me at least two weeks before an exam to discuss your accommodation, even if you have already received this accommodation from SDS.</b>
 
+# SOME LINKS
+
+Here are some useful links for making it through the fall semester.
+
+It's good to know when things are: <a href="https://www.drake.edu/academics/academiccalendar/"> Academic Calendar </a>.
+
+It's good to know what mental health resources Drake has (and don't feel like it's ever too early to reach out): <a href="https://www.drake.edu/counselingcenter/counselingservices/"> Counseling Services </a>.
+
++ Some things that help my brain, personally: <a href="https://www.youtube.com/watch?v=dWNIl2eW6yA"> Forest sounds </a>, <a href="https://www.youtube.com/watch?v=9lh_becOt4Y"> Campfire </a>, <a href="https://www.youtube.com/watch?v=W-23ZX_9tkY"> Rain in a cozy cabin </a>.
+
+
+
 # A NOTE
 The instructor reserves the right to modify this syllabus along with any course policies at any time during the semester. 
