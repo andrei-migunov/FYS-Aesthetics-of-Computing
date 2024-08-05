@@ -23,8 +23,8 @@ All your assignments for this class are described below and assigned a percentag
 
 # WHAT YOUR GRADE IS BASED ON
 
-4x Low-stakes writing assignments. 10% of grade total.
-4x High-stakes writing assignments. 30% of grade total.
+4x Low-stakes writing assignments. 10% of grade total. 
+4x High-stakes writing assignments. 30% of grade total. 
 1x Proposal for a final paper idea (1 page, double-spaced). 15% of grade total
 1x Final paper. 30% of grade total.
 1x Writing conversation assignment. 5% of grade total.
@@ -37,7 +37,9 @@ That adds up to 100%.
 
 Everything due in this class is due on a Friday.  
 
-These are general descriptions of the nature of each assignment type. The assignments themselves will be made available on Blackboard.
+Below are general descriptions of the nature of each assignment type. The assignments themselves will be made available on Blackboard.
+
+The exact assignment statements and dates are posted <a href="https://docs.google.com/spreadsheets/d/1qB1QgjPhYQgD4gCDe4W9ovCVcv8H1Q3d5pW-EZvuu_Y/edit?usp=sharing">here (click)</a>.
 
 ## FEEDBACK ON YOUR WORK
 
@@ -61,7 +63,7 @@ You can make your appointments here: <a href="Starfish Website TBD"> Drake Writi
 
 ## PROPOSAL FOR A FINAL PAPER IDEA
 
-You must propose (to the instructor) a topic on which you will write at length (6-8 pages). The proposal itself can be fairly short - about half a page. It must discuss some of the main points you might hit in your paper, but of course you don't need to have spelled them all out to yourself in detail yet.
+You must propose a topic on which you will write at length (6-8 pages). The proposal itself can be fairly short - about half a page. It must discuss some of the main points you might hit in your paper, but of course you don't need to have spelled them all out to yourself in detail yet. See assignments link for due date.
 
 ## FINAL PAPER
 
