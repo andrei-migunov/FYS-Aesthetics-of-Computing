@@ -233,7 +233,8 @@ ____________________________________
 
 Nov 6 |
 Topic: Computer and Electronic Music
-Today: Field trip to the library to reserach the history of eletronic music
+Today: Field trip to the library to research the history of eletronic music
+MEET IN COWLES LIBRARY ROOM 201
 
 ____________________________________
 
