@@ -108,6 +108,7 @@ Viewing for this day:
 [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
 [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
 [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
+[2001: A Space Odyssy Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
 
 
 ____________________________________
@@ -144,8 +145,15 @@ ____________________________________
 
 Oct 7 |
 
-Topic: (Exact date TBD) Drake President, Marty Martin speaking to our learning community
-Reading for this day: None, and we will be done early. You must use the spare time to work on your final essay concept!
+NO CLASS 
+
+
+We will sit down in Sussman theater together one evening and watch Blade Runner (1982) with other students from our learning community - so, from other FYS sections! 
+President Martin will talk briefly, before or after the movie. 
+
+As a result, we will cancel one class meeting.
+
+
 ____________________________________
 
 Oct 9 |
@@ -303,20 +311,21 @@ Dec 2 |
 
 Topic: Analog and Biological Computation
 
-Viewing for this day: Watch the Matrix (wherever you want - it's $4 to rent [on youtube)](https://www.youtube.com/watch?v=GuE0Mtr-w6g), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
+Viewing for this day: Watch the Matrix (wherever you want - it's $4 to rent [on youtube)](https://www.youtube.com/watch?v=GuE0Mtr-w6g)), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
 
 Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
 [Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043)
 
 Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - you don't have to watch it) [Revisiting H.R. Giger](https://www.youtube.com/watch?v=CCFx188UmXs), 
 [Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w)
+
 ____________________________________
 
 Dec 4 |
 
 Working on papers in class together.
 
-You must come to class this day. I will sit down with you and we'll look at how your paper's coming along. Some of your score will come from showing me on this day specifically that you've made good progress towards your paper's completion, that you've sharpened your ideas and have a clear concept of what you're trying to do. Good time to ask me last-minute questions, clarifications, etc. before the due date. Office hours are also a good time for that. I will expect your FINAL versions next week! 
+You must come to class this day. We'll sit down together to look at how your paper's coming along. Some of your score will come from showing me on this day that you've made good progress towards your paper's completion, that you've sharpened your ideas and have a clear concept of what you're trying to do. Good time to ask me last-minute questions, clarifications, etc. before the due date. Office hours are also a good time for that. I will expect your FINAL versions next week! 
 
 ____________________________________
 
@@ -324,8 +333,10 @@ Dec 9-13 |
 
 FINALS WEEK - When we meet is TBD. We'll clarify what we want to do here, as it gets closer.
 
-          |                       |
-<!-- Blade runner when?-->
+
+
+
+
 
 <!--- Units:
 
