@@ -23,6 +23,11 @@ Some of our questions: What is a computer? Is it a machine? What is beauty and h
 
 When you go to look at the schedule linked above - you might think an important topic, reading, idea, or even particular aesthetic object (a song, picture, movie) is missing. If so, tell me! Convince me it matters, and it'll become part of the class!
 
+# PROFESSOR INFO
+Andrei Migunov
+Office: Collier-Scripps Room 321
+Office hours below
+
 # READING, VIEWING, AND LISTENING
 
 Reading is a major part of this course, possibly the most important part. Reading does not mean simply parsing the words on the page. It means thinking carefully in order to understand their meaning. This is a basic responsibility and cannot be waived. It is *your* job to understand our readings, they cannot be 'digested' *for* you. If you don't try your absolute best to understand them, then we cannot discuss them. You will read material that is challenging, and you might see words you are not familiar with. It is your responsibility to look them up. That said, don't get hung up on everything all the time. Exercise your best judgment to decide how you read, when you really need to look something up, when it's an inessential thing you can skip over at least for now, etc. Read slowly and carefully, and always read the entire assigned reading. When you finish reading something, rephrase it in your own words to yourself. Sometimes you can't do that on the first pass, and you need to take another look.  

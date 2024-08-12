@@ -92,9 +92,9 @@ Reading for this day:
 Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech), 
 [Bauhaus](https://www.artsy.net/article/artsy-editorial-bauhaus-shaped-100-years)
 Viewing for this Day: 
-[Howl's Moving Castle](assets/howlscastle.png), [Steam engine](https://www.youtube.com/watch?v=dH5pRQwlxc4), [Anime steampunk aesthetic](https://www.youtube.com/watch?v=lDejK1WvNK0)
+[Howl's Moving Castle](assets/howlscastle.jpg), [Steam engine](https://www.youtube.com/watch?v=dH5pRQwlxc4), [Anime steampunk aesthetic](https://www.youtube.com/watch?v=lDejK1WvNK0), [Massive machines](https://www.youtube.com/watch?app=desktop&v=QjNFeaIiHUg), 
 Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - not required) [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/)
-
+[Le Corbusier's Machines for Living](https://www.youtube.com/watch?v=vQX7-4qxXBI)
 
 <!-- Low level code to high level code is a whole aesthetic gradient that goes between mechtech and electro/chaotech. It's at the levle of high level code that we experience chaotech - decay, confusion, unexpected behaviors. There is regularity at the level of terminal commands to a simple machine. -->
 
@@ -197,9 +197,10 @@ Oct 23 |
 Topic: Aesthetics of Machine Decay 
 Reading for this day: 
 Brummett - Ch. 4 (Chaotech) 
+Viewing: [Abandoned mechtech](https://www.youtube.com/watch?v=03yLySD8jOg), [Abandoned electrotech - focus on the device, not its environment](https://www.youtube.com/shorts/jv7iOBBJ6Ns)
 Listening for this day (you don't need to listen to the entire album): [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI)
 Supplementary: 
-[watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=KlJ3F6-VEBo) 
+[watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=_62-MybgblA) [more](https://www.youtube.com/watch?v=JuGzYiwhOf0)
 
 <!-- https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/ -->
 ____________________________________
@@ -317,7 +318,7 @@ Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com
 [Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043)
 
 Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - you don't have to watch it) [Revisiting H.R. Giger](https://www.youtube.com/watch?v=CCFx188UmXs), 
-[Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w)
+[Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w), [Ancient and analog mechtech - the Antikythera mechanism](https://www.youtube.com/watch?v=qqlJ50zDgeA)
 
 ____________________________________
 
