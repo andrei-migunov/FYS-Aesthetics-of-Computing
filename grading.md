@@ -57,9 +57,12 @@ Low stakes assignments exist so that you can practice writing and get feedback, 
 Good writing is good thinking. High stakes assignments exist to actually assess and grade your writing quality, and also the quality of your own thinking about the material you're writing about - other than the final paper, they're the main source of your grade points. You need to do your best on them, and write thoughtful, clean, quality work that shows that you've digested the ideas and spent time with them one-on-one. You need to express and defend your ideas, support them with evidence, and cite your sources. These are all things you should be trying to do in low stakes assignments as well, but on high stakes assignments they earn (or cost) you points. You can’t fully engage with an idea, theme, or problem until you, yourself, write about it and commit your best thoughts to paper.
 
 ## WRITING CONVERSATION ASSIGNMENT
-The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>two</b> appointments, visit the writing center, and then you will get the points for this assignment.
+The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>two</b> appointments, visit the writing center, and then you will get the points for this assignment. 
 
-You can make your appointments here: <a href="Starfish Website TBD"> Drake Writing Center </a>.
+You can make your appointments here: <a href="https://drake.starfishsolutions.com/starfish-ops/instructor/serviceCatalog.html?tenantId=9303#/service/22074/schedule"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
+
+You can also scan this QR code: 
+<img src="assets/qr.png" width="300"> 
 
 ## PROPOSAL FOR A FINAL PAPER IDEA
 

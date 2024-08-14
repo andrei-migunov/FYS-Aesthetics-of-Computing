@@ -189,6 +189,7 @@ Supplementary:
 [old games](https://archive.org/details/msdos_Neuromancer_1988)
 [Is electronic music a threat to culture?](https://www.varsity.co.uk/science/11929)
 [Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
+[Halt and Catch Fire - 90s Nostalgia](https://www.youtube.com/watch?v=LvfKEJmqMQQ)
 
 
 ____________________________________
