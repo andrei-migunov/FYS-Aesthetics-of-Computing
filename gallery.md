@@ -4,6 +4,8 @@ layout: default
 permalink: /gallery
 ---
 
+All images here are borrowed merely for educational purposes.
+
 <!-- ![1](assets/images/1.jpg)
 
 ![2](assets/images/2.jpg)
@@ -57,3 +59,4 @@ permalink: /gallery
 <img src="assets/images/16.jpg" width="400"> 
 <img src="assets/images/17.JPG" width="400"> 
 <img src="assets/images/18.JPG" width="400"> 
+
