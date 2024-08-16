@@ -6,6 +6,9 @@ permalink: /grading
 
 <!--https://www.drake.edu/dc/facultystaffresources/fysresources/fall2020fyssamplesyllabi/#d.en.345720 --> 
 
+
+>“Part of the art of learning any difficult act, like music, is knowing both how to teach yourself and how best to use the teaching of others, how to gain from the greater experience and skill of other people without becoming dependent on them. For few people are likely to become good at music, or anything else, who do not learn how to teach themselves.” - (J. Holt, in Never Too Late)
+
 # GRADING SCALE
 
 93-100.0% A
