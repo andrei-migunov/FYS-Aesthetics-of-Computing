@@ -105,7 +105,11 @@ It's good to know what mental health resources Drake has (and don't feel like it
 
 + Some things that help my brain, personally: <a href="https://www.youtube.com/watch?v=dWNIl2eW6yA"> Forest sounds </a>, <a href="https://www.youtube.com/watch?v=9lh_becOt4Y"> Campfire </a>, <a href="https://www.youtube.com/watch?v=W-23ZX_9tkY"> Rain in a cozy cabin </a>.
 
+# REST
 
+Rest is important. Being on your phone doomscrolling, watching instagram reels and tiktoks is not rest, tempting as it may be to believe that it is.
+
+Lay on the floor for a while and stare at the cieling. Think your own thoughts and be aware of them, spend some time with them. Go on a walk with headphones. Cook a nice meal for your friends. There are many options, they are not limited to these suggestions. But rest is something that is harder and harder to find - and we all need to be suspicious of the sorts of things that distract us from our responsibilities without leaving us rested.
 
 # A NOTE
 The instructor reserves the right to modify this syllabus along with any course policies at any time during the semester. 
