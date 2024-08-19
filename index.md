@@ -27,6 +27,7 @@ When you go to look at the schedule linked above - you might think an important 
 Andrei Migunov
 Office: Collier-Scripps Room 321
 Office hours below
+Email: firstname dot lastname at drake dot edu
 
 # READING, VIEWING, AND LISTENING
 
