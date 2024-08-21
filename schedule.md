@@ -108,7 +108,7 @@ Viewing for this day:
 [Neon Genesis Evangelion - Control Room](https://external-preview.redd.it/f0-Bgpdoh_0tIEM-Ir-u_dJukFk1akoXf7338qnNL3Y.jpg?auto=webp&s=c905c9878ab3c15c6542f9eb3c3619d5dd4e0a9c), 
 [A circuit](https://www.youtube.com/watch?v=LN6EuNqxOwE),
 [Circuit diagram](https://www.visual-paradigm.com/servlet/editor-content/tutorials/how-to-create-circuit-diagram/sites/7/2019/02/circuit-diagram-example.png), 
-[2001: A Space Odyssy Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
+[2001: A Space Odyssey Trailer](https://www.youtube.com/watch?v=oR_e9y-bka0)
 
 
 ____________________________________
