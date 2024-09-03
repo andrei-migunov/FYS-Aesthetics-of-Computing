@@ -131,6 +131,11 @@ ____________________________________
 Sept 30 | 
 Topic: Cyberpunk 
 Reading for this day: Neuromancer Chs. 1 - 10
+
+***
+THIS EVENING AT 5:00 PM we'll be screening <i>Blade Runner (1982)</i> at Sussman Theater for the Dystopia and Tech learning community. See you there!  
+***
+
 Supplementary: [Donna Haraway - <i>Cyborg Manifesto</i>](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
 
 ____________________________________
@@ -147,12 +152,7 @@ Oct 7 |
 
 NO CLASS 
 
-
-We will sit down in Sussman theater together one evening and watch Blade Runner (1982) with other students from our learning community - so, from other FYS sections! 
-President Martin will talk briefly, before or after the movie. 
-
-As a result, we will cancel one class meeting.
-
+Since you had to make time outside of class to watch Blade Runner (1982) with our learning community, we will cancel this class meeting.
 
 ____________________________________
 
