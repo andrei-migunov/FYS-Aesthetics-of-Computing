@@ -331,9 +331,9 @@ You must come to class this day. We'll sit down together to look at how your pap
 
 ____________________________________
 
-Dec 9-13 |
+Dec 9 |
 
-FINALS WEEK - When we meet is TBD. We'll clarify what we want to do here, as it gets closer.
+9:30 AM - 11:20 AM, final meeting time. We may not need it, TBD.
 
 
 
