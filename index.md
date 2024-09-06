@@ -92,6 +92,8 @@ Students are encouraged to seek out resources for help in understanding concepts
 
 The minimum penalty for any violation of academic integrity will be a forfeiture of all points on the entire assignment or exam in question. Depending on the severity of the violation, an `F' for the course may be given. All violations will be reported to the College of Arts and Sciences Dean's office as explained in the Academic Integrity Policy.
 
+More specifically: If I suspect cheating on any assessment, I will clearly say this in my feedback, in addition to giving that assessment a 0. You must come to my office hours and discuss this with me within one (1) week of the grade being made available to you, otherwise it will be logged and forwarded to the Chair of the Computer Science Department, and then the Dean of A&S.
+
 # STUDENT DISABILITY SERVICES
 If you have a disability and require academic or physical accommodations in this course, please contact me and Student Disability Services (Michelle Laughlin, Director of Student Disability Services, at 271-1835 or michelle.laughlin@drake.edu) in advance of the date the accommodations are needed. Student Disability Services will coordinate with me to ensure that the necessary accommodations are provided. You must <b>talk to me in person</b> after you receive notification of your accommodation to let me know, and to plan. Please come to my office hours to do so. This is not optional! 
 
