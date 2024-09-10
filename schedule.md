@@ -314,7 +314,7 @@ Dec 2 |
 
 Topic: Analog and Biological Computation
 
-Viewing for this day: Watch the Matrix (wherever you want - it's $4 to rent [on youtube)](https://www.youtube.com/watch?v=GuE0Mtr-w6g)), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
+Viewing for this day: Watch the Matrix (required! Will be available for free via Drake - link to be shared later), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
 
 Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
 [Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043)
