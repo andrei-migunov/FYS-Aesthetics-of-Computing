@@ -216,7 +216,7 @@ ____________________________________
 
 Oct 30 |
 Topic: Video Games 
-Reading for this day: 
+Reading for this day: Kirkpatrick - <i>The Aesthetic Approach [In Videogames]</i>
 Supplementary:  
 <!-- Adam guest Lecture ? -->
 
