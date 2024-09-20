@@ -124,7 +124,7 @@ ____________________________________
 Sept 25 | 
 Topic: Theory of Computation
 Viewing for this day: [Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
-Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, etc.!
+Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, "how solvable" a problem is, etc.!
 
 ____________________________________
 
@@ -154,6 +154,7 @@ NO CLASS
 
 Since you had to make time outside of class to watch Blade Runner (1982) with our learning community, we will cancel this class meeting.
 
+However, I will be in the classroom and if you want to stop by, I am happy to talk about whatever you like, look at your writing, etc.
 ____________________________________
 
 Oct 9 |
