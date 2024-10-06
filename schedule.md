@@ -73,6 +73,7 @@ Topic: Aesthetics and the Unconscious
 Reading for this day: 
 Daniel Kahneman - <i>Systems 1 and 2</i>
 [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
+Supplementary: Zenil, Soler-Toscano, Gauvrit - </i>Aesthetic Preferences</i>
 
 
 ____________________________________
