@@ -315,6 +315,8 @@ Dec 2 |
 
 Topic: Analog and Biological Computation
 
+Reading for this day: [Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
+
 Viewing for this day: Watch the Matrix (required! Will be available for free via Drake - link to be shared later), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
 
 Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
