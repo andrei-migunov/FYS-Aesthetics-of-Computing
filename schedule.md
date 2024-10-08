@@ -164,6 +164,7 @@ Topic: Artificial Intelligence and Machine Learning
 Reading for this day: 
 [Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
 [The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
+[The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 Supplementary:
 [NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
