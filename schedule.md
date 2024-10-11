@@ -212,9 +212,23 @@ ____________________________________
 
 Oct 28 |
 Topic: Video Games
-Reading for this day: You tell me! What games have a particular aesthetic appeal that you want to discuss (and are willing to take the initiative to lead the discussion)?
-Supplementary:  [Myst](https://en.wikipedia.org/wiki/Myst)
+Reading for this day: 
+[Dithering](https://en.wikipedia.org/wiki/Dither)
+[Microtransactions](https://en.wikipedia.org/wiki/Microtransaction)
 
+Viewing for this day:
+[How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+[Games that don't fake the space](https://www.youtube.com/watch?v=Q85l1Fenc5w)
+[Procedurally generated city](https://www.youtube.com/watch?v=7MsAbMCxdkc)
+[Procedurally generated dungeons](https://www.youtube.com/watch?v=TPvxWIKHE6Q)
+
+Supplementary: 
+[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+[Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
+[First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
+[Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
+[Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
+[Myst](https://en.wikipedia.org/wiki/Myst)
 ____________________________________
 
 Oct 30 |
