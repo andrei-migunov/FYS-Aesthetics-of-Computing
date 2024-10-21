@@ -187,6 +187,7 @@ ____________________________________
 Oct 21 |
 Topic: Nostalgia and Retro
 Reading for this day: 
+[Interview V. Mannucci, V. Mattioli, Mark Fisher - Nostalgia and Lost Futures](https://my-blackout.com/2019/04/26/mark-fisher-hauntology-nostalgia-and-lost-futures-interviewed-by-v-mannucci-v-mattioli/)
 [Tech Nostalgia matters because it's the history of us](https://archive.is/SMtXn)
 [(skim) Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)
 Supplementary: 
