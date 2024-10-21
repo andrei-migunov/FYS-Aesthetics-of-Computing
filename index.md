@@ -59,9 +59,11 @@ Office hours are a time to talk to the professor, get clarification, ask questio
 
 My office hours this semester are:
 
-Mondays from 2pm-4pm,
-Tuesdays from 2pm-4pm,
-or by appointment
+Monday	2-4pm
+Tuesday	11-12am
+Wednesday	3-4pm (Zoom only)
+Thursday	2-3pm (Zoom only)
+Friday	None
 
 # THE AVERAGE DAY OF CLASS
 
