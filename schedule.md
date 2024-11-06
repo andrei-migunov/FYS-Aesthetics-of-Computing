@@ -354,7 +354,9 @@ ____________________________________
 
 Dec 9 |
 
-9:30 AM - 11:20 AM, final meeting time. We may not need it, TBD.
+9:30 AM - 11:20 AM, final meeting time, in the same room.
+
+We'll watch <i>Hackers</i>!
 
 
 
