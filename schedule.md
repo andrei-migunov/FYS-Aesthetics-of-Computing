@@ -319,7 +319,7 @@ Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses
 ____________________________________
 
 Nov 25 |
-NO CLASS - SPEND TODAY READING AND/OR WRITING
+NO CLASS (but I'll be in the room at the usual time if you want to talk) - SPEND TODAY READING AND/OR WRITING
 
 ____________________________________
 
@@ -334,7 +334,7 @@ Topic: Analog and Biological Computation
 
 Reading for this day: [Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
 
-Viewing for this day: Watch the Matrix (required! Will be available for free via Drake - link to be shared later), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
+Viewing for this day: [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7?referrer=direct) (required! Will be available for free via Drake - link to be shared later), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
 
 Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
 [Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043)
@@ -354,7 +354,7 @@ ____________________________________
 
 Dec 9 |
 
-9:30 AM - 11:20 AM, final meeting time, in the same room.
+9:30 AM - 11:20 AM, final meeting time, place TBD (same room unless announced otherwise in class).
 
 We'll watch <i>Hackers</i>!
 
