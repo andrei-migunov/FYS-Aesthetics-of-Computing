@@ -61,9 +61,9 @@ My office hours this semester are:
 
 Monday	2-4pm
 Tuesday	11-12am
-Wednesday	3-4pm (Zoom only)
+Wednesday	None
 Thursday	2-3pm (Zoom only)
-Friday	None
+Friday	2-3pm
 
 # THE AVERAGE DAY OF CLASS
 

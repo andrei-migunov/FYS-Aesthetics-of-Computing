@@ -156,6 +156,7 @@ NO CLASS
 Since you had to make time outside of class to watch Blade Runner (1982) with our learning community, we will cancel this class meeting.
 
 However, I will be in the classroom and if you want to stop by, I am happy to talk about whatever you like, look at your writing, etc.
+
 ____________________________________
 
 Oct 9 |
@@ -209,6 +210,7 @@ Supplementary:
 [watch some NieR Automata gameplay footage](https://www.youtube.com/watch?v=_62-MybgblA) [more](https://www.youtube.com/watch?v=JuGzYiwhOf0)
 
 <!-- https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/ -->
+
 ____________________________________
 
 Oct 28 |
@@ -230,6 +232,7 @@ Supplementary:
 [Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
 [Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
 [Myst](https://en.wikipedia.org/wiki/Myst)
+
 ____________________________________
 
 Oct 30 |
@@ -296,6 +299,7 @@ Supplementary:
 
 ____________________________________
 
+
 Nov 18 |
 Topic: AI Art and Pixel Art
 Reading for this day: : 
@@ -309,6 +313,7 @@ Supplementary:
 
 ____________________________________
 
+
 Nov 20 |
 Topic: Coding (half-day)
 Pause for reflection (half-day)
@@ -317,6 +322,7 @@ Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#
 Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps)
 
 ____________________________________
+
 
 Nov 25 |
 NO CLASS (but I'll be in the room at the usual time if you want to talk) - SPEND TODAY READING AND/OR WRITING
