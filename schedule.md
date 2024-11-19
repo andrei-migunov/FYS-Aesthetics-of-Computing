@@ -354,7 +354,7 @@ ____________________________________
 
 Dec 9 |
 
-9:30 AM - 11:20 AM, final meeting time, place TBD (same room unless announced otherwise in class).
+9:30 AM - 11:20 AM, final meeting time, C-S 0235 (down the hall from the usual room)
 
 We'll watch <i>Hackers</i>!
 
