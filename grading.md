@@ -82,7 +82,7 @@ This paper cannot simply repeat discussions from class. If it uses those ideas, 
 
 You are welcome to weave together different threads of thought, but make sure to avoid simply re-treading a lot of old ground without adding much new. 
 
-The final paper must be 6-8 pages, double-spaced. If you want to write more, you must talk to me first.
+The final paper must be 5-7 pages, not including works cited, and double-spaced. If you want to write more, you must talk to me first.
 
 # LATE WORK AND EXTENSIONS
 
@@ -90,10 +90,9 @@ No late work is accepted whatsoever.
 
 You may request an extension of <b> two </b> extra days for an assignment, but only by following the rules below:
 
-Extensions on assignments can be requested, and I am generally happy to grant them. What matters to me is that you have a <b> plan  </b> for completing your work and that you can follow through on it. That said, I cannot in good conscience allow your assignments to pile up via extensions. This is a recipe for failure. Thus, extensions will typically be short - but can be granted as often as needed.
-
 Every extension must be requested over email, and every such email must have the following subject line: <b> AOC EXT REQ: HW (number) </b> $$ I will ignore any email that does not have this subject line. I will ignore every request that comes later than 24 hours <b> before </b> the due date: you must request an extension at least 24 hours before the due date. To do this, you must be paying attention to your own progress on each assignment, and start early.
 
+Extensions on assignments can be requested, and I am generally happy to grant them. What matters to me is that you have a <b> plan  </b> for completing your work and that you can follow through on it. That said, I cannot in good conscience allow your assignments to pile up via extensions. This is a recipe for failure. Thus, extensions will typically be short - but can be granted as often as needed.
 
 
 
