@@ -373,8 +373,8 @@ Biotech as an aestehtic category (after cyberpunk? before?)
 Remove coding day, or combine with hacking
 
 General improvements:
-I need to talk less and give away the plot less. Let them handle the easy questions. 
-
+-I need to talk less and give away the plot less. Let them handle the easy questions. 
+-Need to encourage students *very clearly* to stay away from the 'low hanging fruit' of boring ethical observations like "AI is bad". Need to push them to focus on the aesthetics and pull ethics out of that.
 
 
 
