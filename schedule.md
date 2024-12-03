@@ -354,7 +354,7 @@ Dec 4 |
 
 Working on papers in class together.
 
-You must come to class this day. We'll sit down together to look at how your paper's coming along. Some of your score will come from showing me on this day that you've made good progress towards your paper's completion, that you've sharpened your ideas and have a clear concept of what you're trying to do. Good time to ask me last-minute questions, clarifications, etc. before the due date. Office hours are also a good time for that. I will expect your FINAL versions next week! 
+We'll sit down together to look at how your paper's coming along. Some of your score will come from showing me on this day that you've made good progress towards your paper's completion, that you've sharpened your ideas and have a clear concept of what you're trying to do. Good time to ask me last-minute questions, clarifications, etc. before the due date. Office hours are also a good time for that. I will expect your FINAL versions next week! 
 
 ____________________________________
 
@@ -365,11 +365,21 @@ Dec 9 |
 We'll watch <i>Hackers</i>!
 
 
+<!---
+Next time:
+
+Giger as an application of mechtech (day after mechtech but also after biotech)
+Biotech as an aestehtic category (after cyberpunk? before?)
+Remove coding day, or combine with hacking
+
+General improvements:
+I need to talk less and give away the plot less. Let them handle the easy questions. 
 
 
 
 
-<!--- Units:
+
+ Units:
 
 Aesthetic theory: 
 What is Aesthetics? 
