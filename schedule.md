@@ -371,15 +371,19 @@ Next time:
 Giger as an application of mechtech (day after mechtech but also after biotech)
 Biotech as an aestehtic category (after cyberpunk? before?)
 Remove coding day, or combine with hacking
+Viruses and virality? 
 
 General improvements:
 -I need to talk less and give away the plot less. Let them handle the easy questions. 
 -Need to encourage students *very clearly* to stay away from the 'low hanging fruit' of boring ethical observations like "AI is bad". Need to push them to focus on the aesthetics and pull ethics out of that.
+- Personal writing is encouraged but it has to be engaging. I need to actually take off points for personal anecdotes that don't include any insights.
+- Emphasizing content over form was a good idea - and it's challenging. I should keep on that thread.
+- Need to continue to be harsh about citations. Need to be 
 
 
 
 
- Units:
+Units:
 
 Aesthetic theory: 
 What is Aesthetics? 
