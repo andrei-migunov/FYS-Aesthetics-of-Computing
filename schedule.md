@@ -379,6 +379,8 @@ General improvements:
 - Personal writing is encouraged but it has to be engaging. I need to actually take off points for personal anecdotes that don't include any insights.
 - Emphasizing content over form was a good idea - and it's challenging. I should keep on that thread.
 - Need to continue to be harsh about citations. Need to be 
+- Appearances signal values that people respond to. *How* do they do that is our main question?
+ - The answers will usually be in reference to other appearances and values! Cest la vie! There is nothing at the bottom of everything. 
 
 
 
