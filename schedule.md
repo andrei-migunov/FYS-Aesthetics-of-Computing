@@ -384,6 +384,7 @@ General improvements:
 
 
 
+Perlin noise and No man's sky: https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52
 
 Units:
 
