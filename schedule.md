@@ -271,13 +271,13 @@ MEET IN COWLES LIBRARY ROOM 201
 ____________________________________
 
 Nov 11 |
-Topic: Hacker Culture
-Reading for this day: 
-[Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
-Viewing for this day: 
+Topic: Coding and Hacker Culture
+
+Reading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming), [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
+Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#/media/File:W65C816S_Machine_Code_Monitor.jpeg), [High-level code](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png), [More high-level code](https://www.wikihow.com/images/thumb/0/04/4582307-12.jpg/-crop-342-184-245px-4582307-12.jpg.webp),
 [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
-Supplementary: 
-[Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
+
+Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps), [Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
 
 
 <!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
@@ -315,11 +315,11 @@ ____________________________________
 
 
 Nov 20 |
-Topic: Coding (half-day)
+Topic: Noise and Chaos
+Reading for this day:
+Viewing for this day: 
 Pause for reflection (half-day)
-Reading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming)
-Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#/media/File:W65C816S_Machine_Code_Monitor.jpeg), [High-level code](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png), [More high-level code](https://www.wikihow.com/images/thumb/0/04/4582307-12.jpg/-crop-342-184-245px-4582307-12.jpg.webp)
-Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps)
+
 
 ____________________________________
 
@@ -397,7 +397,6 @@ Sontag, “Against Interpretation” (
 Aesthetics and ideology: 
 Zizek - section on antisemitism
 Bill Livant
-
 
 
 Computer Aesthetics
@@ -478,3 +477,47 @@ Final Evaluation Period Dec 9-13 (Mon-Fri)
 Term Ends Dec 13 (Fri)
 Class Day count (at least 68) 68 - Excluding Final Eval Period & Day Free for Study
 Winter Break (# of weekdays) 15 days -->
+
+
+<!-- 
+
+Introduction slides:
+
+
+Main areas of science that appear in this class:
+
+Computer Science (of course)
+Rhetoric
+Psychology
+Cultural analysis (see, Cyberpunk)
+Music and film theory
+
+Main big ideas in this class:
+    + Randomness, Human Pattern-seeking behavior, noise, and chaos
+    + Culture as something that is created and can be studied
+    + The meanings of fantasy and sci-fi worlds, how they relate to our own
+    + The beauty in instruments, devices, and things
+    + The ways that everyday objects convey values through their design
+    + Specific aesthetic categories: mechanical devices (machines), electronics, and machine decay
+    + That concepts are "negotiable" - not definite, eternal ideas we must accept
+
+
+
+
+The big over-arching "rules":
+Citations, above all else. Not optional.
+    + This policy starts on day one. Or your college adventure will end early.
+    + Play it safe and cite more than what is necessary. Cite your peers. Cite the classroom discussion. And, obviously, cite any other resources (books, etc.).
+
+
+Content above form.
+    + I am not grading you on your grammar and punctuation. You are graded based on your willingness to experiment with ideas. 
+    + No summarizing is allowed. We all read the same stuff -we don't need it summarized for us. When you write, you want to focus on saying something new, however small, however subtle. A big idea comes to everyone sometimes. But you can always dig around and find a small idea, a little subtle thing, and nurture it. You can defend ideas carefully, and from many sides. All this makes for good writing that other people want to read. 
+
+The objective vs the subjective. 
+    + We tend to say things are objective which are true apart from our beliefs, and things are subjective which depend entirely on our beliefs. Many things are a mixture of both.
+    + It's common to think that each person has their own preferences and beliefs, and that we should let each other do that. For one, it's not always true. But even when it is true, we can still enjoy and understand our preferences better when they're in dialogue (often, disagreement) with others. This is a class for friendly debate. 
+    + Aesthetics is about discovering the objective in the subjective. For example, I think I like this music but I also understand that it uses certian audio techniques that predispose me to enjoy it. Is this neutral? Is it at least something I can dissect and discuss? Have I discovered an objective *aspect* of a subjective experience?
+
+
+-->

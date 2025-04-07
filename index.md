@@ -6,7 +6,7 @@ permalink: /index
 
 ![Welcome to Aesthetics of Computing](welcome_aesthetics.gif)
 
-### First Year Seminar - Drake University - Fall 2024
+### First Year Seminar - Drake University - Fall 2025
 
 ### Welcome to Aesthetics of Computing! My name is Andrei - I am your professor - and I am so excited to have you in my class and to get to know you over the next weeks and months! Please make sure to read the entirety of the syllabus (course policies and information) below, so you can know our policies, what's expected of you, what you can expect from me, and what the class is going to be about!
 
@@ -59,11 +59,6 @@ Office hours are a time to talk to the professor, get clarification, ask questio
 
 My office hours this semester are:
 
-Monday	2-4pm
-Tuesday	11-12am
-Wednesday	None
-Thursday	2-3pm (Zoom only)
-Friday	2-3pm
 
 # THE AVERAGE DAY OF CLASS
 
@@ -77,13 +72,13 @@ After some discussion, I will give you some time to work on your writing. You'll
 
 0. <b>Respectful disagreement</b>: There is a 0% chance that we will all agree on everything, including things we feel strongly about. You can believe your beliefs, even be certain of them, and still be unable to change anyone's mind. That does not mean you can resort to any sort of rude behavior or name-calling. It is absolutely out of the question. You must be respectful of your classmates. From the other side - sometimes another person's belief looks like a direct assault on ours (sometimes it is). We have to make an effort to accept others' shortcomings (whether it's that they are wrong (!!!) or aren't being particularly gentle) with grace and patience. 
 
-1. <b>Safety</b>: Please come to the instructor with any serious interpersonal problems - I am always happy to hear you out and talk, and I will take any serious issues seriously. If you have a concern, especially regarding your safety or someone else's, please reach out to me to discuss it privately.
+1. <b>Safety</b>: Please come to the instructor with any serious interpersonal problems - I am always happy to hear you out and talk, and I will take any serious issues seriously. If you have a concern, especially regarding your safety or someone else's, please reach out to me to discuss it privately, and it will be addressed.
 
-2. <b>Studying the debate</b>: Not all questions need or have definitive answers. They need to be thought about and "chewed" thoroughy. Our goal is to see things in new, different, and interesting ways, and to understand aesthetics. That means sitting with a question for a while. It also means that in some ways, it's more interesting - and a surer sign of maturity and knowledge - to study the debates and different viewpoints, rather than taking a once-and-for-all position. 
+2. <b>Studying the debate</b>: Not all questions need or have definitive answers. They need to be thought about and "chewed" thoroughy. Our goal is to see things in new, different, and interesting ways, and to understand aesthetics. That means sitting with a question for a while. It also means that in some ways, it's more interesting - and a surer sign of maturity and knowledge - to study the debates and different viewpoints, rather than taking a once-and-for-all position. We are not medical doctors and nobody dies if we're wrong - so it's safe to be wrong, and it's good to take sides. At the same time, we should be willing to abandon our side if something changes our mind, and we should not try to purposely entrench ourselves in one belief. We <i> study the debate </i> in order to avoid entrenching ourselves.
 
-3. <b>Do the reading</b>: The quality of discussion is proportional to the care with which you did the reading. If most people did not read the text very closely, or did not take good notes on it and think about it, then we aren't going to be able to have a quality discussion. 
+3. <b>Do the reading</b>: The quality of discussion is proportional to the care with which you did the reading. If most people did not read the text very closely, or did not take good notes on it and think about it, then we aren't going to be able to have a quality discussion. If I get a sense that students are not doing the reading, I will begin giving reading quizzes in class.
 
-4. <b>Use of class time</b>: During class time you must be focused and listening to others in the room. 
+4. <b>Use of class time</b>: During class time you must be focused and listening to others in the room. You are expected to participate and answer questions. "I don't know" is a valid - and, in science, a very important - answer. But even better is to put forward a viewpoint or an insight, and it is expected for every student to do this at least weekly.
 
 # ACADEMIC INTEGRITY
 
