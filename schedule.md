@@ -383,6 +383,9 @@ General improvements:
  - The answers will usually be in reference to other appearances and values! Cest la vie! There is nothing at the bottom of everything. 
 
 
+ - This class is about thinking and feeling. Both have to work together. Art, and artistic experience, is felt - but that feeling can be seen and examinde and talked about. FEeling without expression is just personal experience, not a paper. Thought without feeling is dry, and speculative. Artistic experience is *real* - and if you feel it, and can describe it, you describe something real. In this class, this is valued. But it has to be done well, and seriously.
+
+
 
 Perlin noise and No man's sky: https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52
 
