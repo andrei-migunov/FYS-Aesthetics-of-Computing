@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<link rel="stylesheet" type="text/css" href="/~migunov/FYS-AOFC/assets/main.css"></head>
+
+
+<h2>Grade Estimator</h2>
+
+<h3>Step 1: Define Syllabus Weights ('\n' means new line)</h3>
+<textarea id="syllabusInput" rows="4" cols="60" placeholder='Example: Homework,0.5 \n Exam1,0.25 \n Exam2,0.25'></textarea>
+<br>
+<button onclick="setSyllabus()">Set Syllabus</button>
+<span id="syllabusStatus" style="margin-left: 1em; color: lightgray;">&nbsp;</span>
+
+<h3>Step 2: Enter Your Progress as triples (Category, Percentage completed, average so far) </h3>
+<textarea id="progressInput" rows="6" cols="60" placeholder='Example: Homework,0.6,0.92 \n Exam1,1.0,0.88'></textarea>
+<br>
+<button onclick="estimateProjection()">Estimate Grade Range</button>
+<button onclick="resetEstimator()" style="margin-left: 1em;">Reset</button>
+
+<h3>Result</h3>
+<textarea id="projectionResult" rows="4" cols="60" readonly style="background-color: #222; color: lightgray;"></textarea>
+
+<script>
+  let syllabus = {};
+
+  function displayError(msg) {
+    const out = document.getElementById("projectionResult");
+    out.value = msg;
+    out.style.color = "red";
+    syllabus = {};
+  }
+
+  function displayOk(msg) {
+    const out = document.getElementById("projectionResult");
+    out.value = msg;
+    out.style.color = "lightgray";
+  }
+
+  function setSyllabus() {
+    const input = document.getElementById('syllabusInput').value.trim();
+    const lines = input.split('\n');
+    syllabus = {};
+    let totalWeight = 0;
+
+    for (const line of lines) {
+      const [type, weightStr] = line.split(',');
+      if (!type || isNaN(weightStr)) {
+        document.getElementById("syllabusStatus").innerText = `Invalid line: "${line}"`;
+        syllabus = {};
+        return;
+      }
+      const weight = parseFloat(weightStr);
+      if (weight < 0 || weight > 1) {
+        document.getElementById("syllabusStatus").innerText = `Weight must be between 0 and 1: "${line}"`;
+        syllabus = {};
+        return;
+      }
+      syllabus[type.trim()] = weight;
+      totalWeight += weight;
+    }
+
+    if (Math.abs(totalWeight - 1.0) > 0.001) {
+      document.getElementById("syllabusStatus").innerText = `Weights must sum to 1.0 (currently ${totalWeight.toFixed(3)})`;
+      syllabus = {};
+      return;
+    }
+
+    document.getElementById("syllabusStatus").innerText = `Syllabus set with ${Object.keys(syllabus).length} categories.`;
+  }
+
+  function estimateProjection() {
+    if (Object.keys(syllabus).length === 0) {
+      displayError("Please set syllabus weights first.");
+      return;
+    }
+
+    const input = document.getElementById('progressInput').value.trim();
+    if (input.length === 0) {
+      displayError("Please enter your progress.");
+      return;
+    }
+
+    const lines = input.split('\n');
+    const progress = {};
+
+    for (const line of lines) {
+      const [type, portionStr, avgStr] = line.split(',');
+      if (!type || isNaN(portionStr) || isNaN(avgStr)) {
+        displayError(`Invalid line: "${line}"`);
+        return;
+      }
+      const portion = parseFloat(portionStr);
+      const avg = parseFloat(avgStr);
+      if (portion < 0 || portion > 1 || avg < 0 || avg > 1) {
+        displayError(`Portion and average must be between 0 and 1: "${line}"`);
+        return;
+      }
+      progress[type.trim()] = { portion, avg };
+    }
+
+    let minTotal = 0, maxTotal = 0;
+
+    for (const [type, weight] of Object.entries(syllabus)) {
+      const entry = progress[type] || { portion: 0, avg: 0 };
+      const done = entry.portion;
+      const avg = entry.avg;
+
+      const minScore = done * avg + (1 - done) * 0;
+      const maxScore = done * avg + (1 - done) * 1;
+
+      minTotal += weight * minScore;
+      maxTotal += weight * maxScore;
+    }
+
+    const minPct = (minTotal * 100).toFixed(2);
+    const maxPct = (maxTotal * 100).toFixed(2);
+
+    displayOk(`Minimum possible final grade: ${minPct}%\nMaximum possible final grade: ${maxPct}%`);
+  }
+
+  function resetEstimator() {
+    document.getElementById("syllabusInput").value = "";
+    document.getElementById("progressInput").value = "";
+    document.getElementById("projectionResult").value = "";
+    document.getElementById("syllabusStatus").innerHTML = "&nbsp;";
+    syllabus = {};
+  }
+</script>
+</html>
