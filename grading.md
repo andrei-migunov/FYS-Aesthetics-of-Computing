@@ -26,15 +26,16 @@ All your assignments for this class are described below and assigned a percentag
 
 # WHAT YOUR GRADE IS BASED ON
 
-4x Low-stakes writing assignments. 10% of grade total. 
-4x High-stakes writing assignments. 30% of grade total. 
-1x Proposal for a final paper idea (1 page, double-spaced). 15% of grade total
-1x Final paper. 30% of grade total.
-1x Writing conversation assignment. 5% of grade total.
-Engagement (attendance and participation). 10% of grade total.
+Low-stakes writing assignments. 10% of grade total. 
+High-stakes writing assignments. 30% of grade total. 
+Proposal for a final paper idea (1 page, double-spaced). 15% of grade total
+Final paper and final project (an aesthetic creation). 40% of grade total.
+Writing conversation assignment. 5% of grade total.
 
 
 That adds up to 100%. 
+
+Other things can take away from this grade without adding to it. Please carefully read and understand the attendance policy below.
 
 ## ASSIGNMENTS AND DUE DATES
 
@@ -62,7 +63,7 @@ Good writing is good thinking. High stakes assignments exist to actually assess 
 ## WRITING CONVERSATION ASSIGNMENT
 The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>two</b> appointments, visit the writing center, and then you will get the points for this assignment. 
 
-You can make your appointments here: <a href="https://drake.starfishsolutions.com/starfish-ops/instructor/serviceCatalog.html?tenantId=9303#/service/22074/schedule"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
+You can make your appointments here: <a href="https://bit.ly/FYSAdHoc"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
 
 You can also scan this QR code: 
 <img src="assets/qr.png" width="300"> 
@@ -71,18 +72,18 @@ You can also scan this QR code:
 
 You must propose a topic on which you will write at length (6-8 pages). The proposal itself can be fairly short - about half a page. It must discuss some of the main points you might hit in your paper, but of course you don't need to have spelled them all out to yourself in detail yet. See assignments link for due date.
 
-## FINAL PAPER
+## FINAL PAPER AND PROJECT
 
-The centerpiece of your writing is the final paper. It should be an original contribution - something nobody has done before - to the topic described in your proposal.
+The centerpiece of your writing is the final paper, and it coincides with a final project - an aesthetic object of some kind, artistic or otherwise designed. It should be an original contribution - something nobody has done before - to the topic described in your proposal.
 
-This paper cannot simply repeat discussions from class. If it uses those ideas, you must 
+This paper cannot simply repeat discussions from class, nor can the aesthetic object be a knockoff of some other thing we've seen. If it uses someone else's ideas, you must 
 
-1. Credit the course discussions 
+1. Credit the course discussions where those ideas originated, and
 2. Significantly develop them into something more sophisticated, complex, and multifaceted. 
 
 You are welcome to weave together different threads of thought, but make sure to avoid simply re-treading a lot of old ground without adding much new. 
 
-The final paper must be 5-7 pages, not including works cited, and double-spaced. If you want to write more, you must talk to me first.
+Please see the assignment statement (at the link above) for more detail on submitting this project and what you must include.
 
 # LATE WORK AND EXTENSIONS
 
