@@ -10,9 +10,9 @@ permalink: /schedule
 
 # Doing the reading
 
-First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the entire reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from the way we process the ideas of others, and this a list of readings that will give you new ideas to make your own ideas and writing original and interesting to other people and to yourself.
+First-year seminars tend to read about 25 pages per day. That number is an average - which means some days we read more and other days we read less. There will be days of class for which we need to read closer to 50 pages, and days of class where the entire reading is half a page. It's hard to have anything to say (or to write) if a person doesn't read very much. Good ideas come from the way we process the ideas of others, and this is a list of readings that will give you new ideas to make your own ideas and writing original and interesting to other people and to yourself.
 
-<b>It is not possible to do well in this class without doing the reading.</b>
+<b>It is not possible to do well in this class without doing the reading. </b>
 
 Our detailed schedule of readings is below. Any reading that is not hyperlinked is available in Blackboard - so you should go there and download it.
 
@@ -27,13 +27,23 @@ All assignments are posted <a href="https://docs.google.com/spreadsheets/d/1qB1Q
 
 Aug 26   |
 Topic: Welcome to Drake!
-Reading for this day: (Do the readings for the next meeting)
+Reading for this day: (Nothing for the first day - but read the course syllabus for next time, and start on the readings for next week)
 
 
 ____________________________________
 
 
 Aug 28   |
+
+Reading for this day: The course syllabus (this entire website - yes, all of it, starting from the main page), and the [Drake Academic Honest Policy (College of Arts and Sciences)](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/) 
+
+Skimming it is not very useful, as you are on the hook for understanding all of it. So take your time and read carefully - it's the only reading for this week.
+
+Please take the syllabus quiz on Blackboard by the end of this week!
+
+____________________________________
+
+Sept 2 |
 Topic: What is Aesthetics? & Aesthetics of the Everyday        
 
 Readings for this day: 
@@ -46,13 +56,6 @@ Viewing for this day (please do not watch the entire 4.5 hour loop):
 Supplementary: 
 [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 [CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
-
-
-
-____________________________________
-
-Sept 2 |
-NO CLASS - LABOR DAY
 
 ____________________________________
 
@@ -73,7 +76,7 @@ Topic: Aesthetics and the Unconscious
 Reading for this day: 
 Daniel Kahneman - <i>Systems 1 and 2</i>
 [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
-Supplementary: Zenil, Soler-Toscano, Gauvrit - </i>Aesthetic Preferences</i>
+Supplementary: Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
 
 
 ____________________________________
@@ -133,10 +136,6 @@ Sept 30 |
 Topic: Cyberpunk 
 Reading for this day: Neuromancer Chs. 1 - 10
 
-***
-THIS EVENING AT 5:00 PM we'll be screening <i>Blade Runner (1982)</i> at Sussman Theater for the Dystopia and Tech learning community. See you there!  
-***
-
 Supplementary: [Donna Haraway - <i>Cyborg Manifesto</i>](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
 
 ____________________________________
@@ -151,21 +150,24 @@ ____________________________________
 
 Oct 7 |
 
-NO CLASS 
+Topic: The Uncanny and the Sublime
 
-Since you had to make time outside of class to watch Blade Runner (1982) with our learning community, we will cancel this class meeting.
+Readings for this day: 
+[The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
 
-However, I will be in the classroom and if you want to stop by, I am happy to talk about whatever you like, look at your writing, etc.
+[Freud - The Uncanny (Unheimlich)]
+
+Supplementary: [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 
 ____________________________________
 
 Oct 9 |
 
 Topic: Artificial Intelligence and Machine Learning
+(Guest Lecture)
 Reading for this day: 
 [Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
-[The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
-[The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
+
 Supplementary:
 [NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
@@ -173,7 +175,7 @@ ____________________________________
 
 
 Oct 14 | 
-FALL BREAK - NO CLASS - NO READING
+FALL BREAK - NO CLASS - NO READING - YOU MUST ENJOY
 
 ____________________________________
 
@@ -271,11 +273,13 @@ MEET IN COWLES LIBRARY ROOM 201
 ____________________________________
 
 Nov 11 |
-Topic: Coding and Hacker Culture
+Topic: Coding, Hacking, Virality
 
 Reading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming), [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
 Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#/media/File:W65C816S_Machine_Code_Monitor.jpeg), [High-level code](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png), [More high-level code](https://www.wikihow.com/images/thumb/0/04/4582307-12.jpg/-crop-342-184-245px-4582307-12.jpg.webp),
 [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
+[Viral phenomenon](https://en.wikipedia.org/wiki/Viral_phenomenon)
+[Meme](https://en.wikipedia.org/wiki/Meme)
 
 Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps), [Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
 
@@ -316,7 +320,7 @@ ____________________________________
 
 Nov 20 |
 Topic: Noise and Chaos
-Reading for this day:
+Reading for this day: [Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
 Viewing for this day: 
 Pause for reflection (half-day)
 
@@ -325,7 +329,7 @@ ____________________________________
 
 
 Nov 25 |
-NO CLASS (but I'll be in the room at the usual time if you want to talk) - SPEND TODAY READING AND/OR WRITING
+NO CLASS (but I'll be in my office and you are welcome to stop by!) - SPEND TODAY READING AND/OR WRITING
 
 ____________________________________
 
@@ -358,11 +362,7 @@ We'll sit down together to look at how your paper's coming along. Some of your s
 
 ____________________________________
 
-Dec 9 |
-
-9:30 AM - 11:20 AM, final meeting time, C-S 0235 (down the hall from the usual room)
-
-We'll watch <i>Hackers</i>!
+No meeting during finals week. You've learned a lot and worked plenty hard - put the finishing touches on it all and submit it to me by TBD.
 
 
 <!---
@@ -387,7 +387,7 @@ General improvements:
 
 
 
-Perlin noise and No man's sky: https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52
+Perlin noise and No man's sky: 
 
 Units:
 
@@ -505,7 +505,7 @@ Main big ideas in this class:
     + That concepts are "negotiable" - not definite, eternal ideas we must accept
 
 
-
+This class is about thinking and feeling. Both have to work together. Art, and artistic experience, is felt - but that feeling can be seen and examinde and talked about. FEeling without expression is just personal experience, not a paper. Thought without feeling is dry, and speculative. Artistic experience is *real* - and if you feel it, and can describe it, you describe something real. In this class, this is valued. But it has to be done well, and seriously.
 
 The big over-arching "rules":
 Citations, above all else. Not optional.
