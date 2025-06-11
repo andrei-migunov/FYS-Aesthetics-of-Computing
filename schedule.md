@@ -25,7 +25,7 @@ All assignments are posted <a href="https://docs.google.com/spreadsheets/d/1qB1Q
 
 # Detailed Schedule
 
-Aug 26   |
+Aug 25   |
 Topic: Welcome to Drake!
 Reading for this day: (Nothing for the first day - but read the course syllabus for next time, and start on the readings for next week)
 
@@ -33,7 +33,7 @@ Reading for this day: (Nothing for the first day - but read the course syllabus 
 ____________________________________
 
 
-Aug 28   |
+Aug 27   |
 
 Reading for this day: The course syllabus (this entire website - yes, all of it, starting from the main page), and the [Drake Academic Honest Policy (College of Arts and Sciences)](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/) 
 
@@ -43,7 +43,14 @@ Please take the syllabus quiz on Blackboard by the end of this week!
 
 ____________________________________
 
-Sept 2 |
+Sept 1 |
+NO CLASS - LABOR DAY
+
+____________________________________
+
+
+
+Sept 3    | 
 Topic: What is Aesthetics? & Aesthetics of the Everyday        
 
 Readings for this day: 
@@ -57,40 +64,34 @@ Supplementary:
 [Stanford Encyclopedia: Everyday Aesthetics](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 [CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
 
+
 ____________________________________
 
-Sept 4    | 
+
+Sept 8 | 
 Topic: Aesthetic Theory
 Reading for this day: 
 Susan Sontag - <i>Against Interpretation  </i>
 Supplementary: 
 [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
-<!-- 
-Henri Lefebvre - Excerpt from <i>Critique of Everyday Life</i> -->
 
-____________________________________
-
-
-Sept 9 | 
-Topic: Aesthetics and the Unconscious
-Reading for this day: 
-Daniel Kahneman - <i>Systems 1 and 2</i>
-[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
-Supplementary: Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
 
 
 ____________________________________
 
-Sept 11 |
+Step 10 | 
 Topic: Aesthetics and the Unconscious
 Reading for this day: 
 Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
+Daniel Kahneman - <i>Systems 1 and 2</i>
+[Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 Supplementary: 
+Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
 Bill Livant - The Hole in Hegel's Bagel
 
 ____________________________________
 
-Sept 16 |
+Sept 15 |
 Topic: Machine Aesthetics
 Reading for this day: 
 Brummett - Rhetoric of Machine Aesthetics, Ch. 2 (Mechtech), 
@@ -104,7 +105,14 @@ Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - not requir
 
 ____________________________________
 
-Sept 18 |
+Sept 17 |
+LEARNING COMMUINITY DAY IN Old Main Sheslow Hall - Sheslow Auditorium - MEET THERE
+
+
+
+____________________________________
+
+Sept 22 |
 Topic: Electronic Aesthetics
 Reading for this day: 
 Brummett - Rhetoric of Machine Aesthetics, Ch. 3 (Electrotech)
@@ -117,30 +125,34 @@ Viewing for this day:
 
 ____________________________________
 
-Sept 23 |
+Sept 24 | 
 Topic: Computers Themselves 
 Reading for this day: [Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
 Viewing for this day: [Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
 Supplementary:
 
+
 ____________________________________
 
-Sept 25 | 
+Sept 29 | 
 Topic: Theory of Computation
 Viewing for this day: [Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
 Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, "how solvable" a problem is, etc.!
 
+
 ____________________________________
 
-Sept 30 | 
+Oct 1 |
 Topic: Cyberpunk 
 Reading for this day: Neuromancer Chs. 1 - 10
 
 Supplementary: [Donna Haraway - <i>Cyborg Manifesto</i>](https://warwick.ac.uk/fac/arts/english/currentstudents/undergraduate/modules/fictionnownarrativemediaandtheoryinthe21stcentury/manifestly_haraway_----_a_cyborg_manifesto_science_technology_and_socialist-feminism_in_the_....pdf)
 
+
+
 ____________________________________
 
-Oct 2 |
+Oct 6 |
 Topic: Cyberpunk
 Viewing for this day: Watch the movie [<i>Ghost in the Shell</i>](https://www.youtube.com/watch?v=iHil4Y4r3Wk)
 Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1607911330497-XMAI541HOOKCW5MUUERG/ghostintheshell.jpg), [Ghost in the Shell2 ](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff08bfeb5-7faa-4270-a9e1-b81d353ec22d_1200x675.jpeg)
@@ -148,8 +160,7 @@ Viewing for this day: [Ghost in the Shell 1](https://images.squarespace-cdn.com/
 
 ____________________________________
 
-Oct 7 |
-
+Oct 8 |
 Topic: The Uncanny and the Sublime
 
 Readings for this day: 
@@ -159,10 +170,17 @@ Readings for this day:
 
 Supplementary: [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 
+
 ____________________________________
 
-Oct 9 |
 
+Oct 13 | 
+
+FALL BREAK - NO CLASS - NO READING - YOU MUST ENJOY
+
+____________________________________
+
+Oct 15 |
 Topic: Artificial Intelligence and Machine Learning
 (Guest Lecture)
 Reading for this day: 
@@ -171,23 +189,10 @@ Reading for this day:
 Supplementary:
 [NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
-____________________________________
-
-
-Oct 14 | 
-FALL BREAK - NO CLASS - NO READING - YOU MUST ENJOY
 
 ____________________________________
 
-Oct 16 |
-Topic: Cybernetics
-Reading for this day:  [Stafford Beer - <i>Designing Freedom</i> Ch.1](https://monoskop.org/images/e/e3/Beer_Stafford_Designing_Freedom.pdf)
-Viewing for this day: [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
-Supplementary: [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
-
-____________________________________
-
-Oct 21 |
+Oct 20 |
 Topic: Nostalgia and Retro
 Reading for this day: 
 [Interview V. Mannucci, V. Mattioli, Mark Fisher - Nostalgia and Lost Futures](https://my-blackout.com/2019/04/26/mark-fisher-hauntology-nostalgia-and-lost-futures-interviewed-by-v-mannucci-v-mattioli/)
@@ -202,7 +207,7 @@ Supplementary:
 
 ____________________________________
 
-Oct 23 | 
+Oct 22 | 
 Topic: Aesthetics of Machine Decay 
 Reading for this day: 
 Brummett - Ch. 4 (Chaotech) 
@@ -215,7 +220,7 @@ Supplementary:
 
 ____________________________________
 
-Oct 28 |
+Oct 27 |
 Topic: Video Games
 Reading for this day: 
 [Dithering](https://en.wikipedia.org/wiki/Dither)
@@ -237,15 +242,15 @@ Supplementary:
 
 ____________________________________
 
-Oct 30 |
-Topic: Video Games 
-Reading for this day: Kirkpatrick - <i>The Aesthetic Approach [In Videogames]</i>
-Supplementary:  
-<!-- Adam guest Lecture ? -->
+Oct 29 |
+Topic: Cybernetics
+Reading for this day:  [Stafford Beer - <i>Designing Freedom</i> Ch.1](https://monoskop.org/images/e/e3/Beer_Stafford_Designing_Freedom.pdf)
+Viewing for this day: [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
+Supplementary: [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
 
 ____________________________________
 
-Nov 4 |
+Nov 3 |
 Topic: Computer and Electronic Music
 Reading for this day:  
 [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
@@ -265,14 +270,14 @@ Supplementary:
 
 ____________________________________
 
-Nov 6 |
+Nov 5 |
 Topic: Computer and Electronic Music
 Today: Field trip to the library to research the history of eletronic music
 MEET IN COWLES LIBRARY ROOM 201
 
 ____________________________________
 
-Nov 11 |
+Nov 10 |
 Topic: Coding, Hacking, Virality
 
 Reading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming), [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
@@ -290,7 +295,7 @@ Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses
 
 ____________________________________
 
-Nov 13 |
+Nov 12 |
 Topic: Algorithms
 Reading for this day: 
 [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
@@ -304,7 +309,7 @@ Supplementary:
 ____________________________________
 
 
-Nov 18 |
+Nov 17 |
 Topic: AI Art, Pixel Art, and Slop
 Reading for this day: : 
 [(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
@@ -318,7 +323,7 @@ Supplementary:
 ____________________________________
 
 
-Nov 20 |
+Nov 19 |
 Topic: Noise and Chaos
 Reading for this day: [Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
 Viewing for this day: 
@@ -328,17 +333,17 @@ Pause for reflection (half-day)
 ____________________________________
 
 
-Nov 25 |
+Nov 24 |
 NO CLASS (but I'll be in my office and you are welcome to stop by!) - SPEND TODAY READING AND/OR WRITING
 
 ____________________________________
 
-Nov 27 | 
+Nov 26 | 
 NO CLASS - THANKSGIVING BREAK
 
 ____________________________________
 
-Dec 2 |
+Dec 1 |
 
 Topic: Analog and Biological Computation
 
@@ -354,7 +359,7 @@ Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - you don't 
 
 ____________________________________
 
-Dec 4 |
+Dec 3 |
 
 Working on papers in class together.
 
@@ -362,7 +367,7 @@ We'll sit down together to look at how your paper's coming along. Some of your s
 
 ____________________________________
 
-No meeting during finals week. You've learned a lot and worked plenty hard - put the finishing touches on it all and submit it to me by TBD.
+No meeting during finals week. You've learned a lot and worked plenty hard - put the finishing touches on it all and submit a quality project, meeting all of the specified criteria, to me by TBD.
 
 
 <!---
