@@ -33,7 +33,7 @@ Reading for this day: (Nothing for the first day - but read the course syllabus 
 ____________________________________
 
 
-Aug 27   |
+Aug 27  (Virtual lecture) |
 
 Reading for this day: The course syllabus (this entire website - yes, all of it, starting from the main page), and the [Drake Academic Honest Policy (College of Arts and Sciences)](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/) 
 
@@ -50,7 +50,7 @@ ____________________________________
 
 
 
-Sept 3    | 
+Sept 3  (Virtual lecture)   | 
 Topic: What is Aesthetics? & Aesthetics of the Everyday        
 
 Readings for this day: 
@@ -82,7 +82,7 @@ ____________________________________
 Step 10 | 
 Topic: Aesthetics and the Unconscious
 Reading for this day: 
-Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
+Slavoj Zizek - selection from <i>The Sublime Object of Ideology</i>
 Daniel Kahneman - <i>Systems 1 and 2</i>
 [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 Supplementary: 

@@ -26,7 +26,6 @@ When you go to look at the schedule linked above - you might think an important 
 # PROFESSOR INFO
 Andrei Migunov
 Office: Collier-Scripps Room 321
-Office hours below
 Email: firstname dot lastname at drake dot edu
 
 # READING, VIEWING, AND LISTENING
@@ -57,7 +56,7 @@ Attendance is part of the 'engagement' portion of your grade and unexcused absen
 
 Office hours are a time to talk to the professor, get clarification, ask questions, talk through ideas and concepts, solve problems, etc. You are welcome at my office hours and I'd love to see you there. My office hours are always in Collier-Scripps Room 321. I can also set office hours by appointment - so if you *can't make it* to the standard office hours, please email me and let's set up a time! I promise it's no inconvenience - and time spent in office hours can be very rewarding!
 
-My office hours this semester are:
+My office hours this semester are: not yet set in stone
 
 
 # THE AVERAGE DAY OF CLASS
