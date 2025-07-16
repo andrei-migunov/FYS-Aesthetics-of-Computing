@@ -63,7 +63,7 @@ Good writing is good thinking. High stakes assignments exist to actually assess 
 ## WRITING CONVERSATION ASSIGNMENT
 The Writing Center is helpful for all students and it is not a sign of weakness to visit and work with someone one-on-one. You should set up an appointment with one of their student employees and work with them on any writing assignments you like. During the semester, you must make <b>two</b> appointments, visit the writing center, and then you will get the points for this assignment. 
 
-You can make your appointments here: <a href="https://bit.ly/FYSAdHoc"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
+You can make your appointments here: <a href="https://drake.starfishsolutions.com/starfish-ops/instructor/serviceCatalog.html?tenantId=9303#/service/22074/schedule"> Drake Writing Center </a>. This link sends you to <i>Starfish</i> a scheduling management tool used widely at Drake. It's a little annoying - and requires you to sign in to your account. But you'll get used to it. On our Blackboard page is a flyer explaining how to use Starfish to schedule an appointment.
 
 You can also scan this QR code: 
 <img src="assets/qr.png" width="300"> 
