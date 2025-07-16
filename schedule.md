@@ -82,7 +82,7 @@ ____________________________________
 Step 10 | 
 Topic: Aesthetics and the Unconscious
 Reading for this day: 
-Slavoj Zizek - selection from <i>The Sublime Object of Ideology</i>
+Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
 Daniel Kahneman - <i>Systems 1 and 2</i>
 [Perceived randomness (Apophenia)](https://stanislav-stankovic.medium.com/perceiving-randomness-cb6ff211c993)
 Supplementary: 
@@ -184,6 +184,7 @@ Oct 15 |
 Topic: Artificial Intelligence and Machine Learning
 (Guest Lecture)
 Reading for this day: 
+[Manovich - AI Aesthetics (Limits of Statistical Reason - end)](https://monoskop.org/images/6/66/Manovich_Lev_AI_Aesthetics_2018.pdf)
 [Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
 
 Supplementary:
