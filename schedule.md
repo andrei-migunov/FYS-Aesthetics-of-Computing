@@ -33,7 +33,7 @@ Reading for this day: (Nothing for the first day - but read the course syllabus 
 ____________________________________
 
 
-Aug 27  (Virtual lecture) |
+Aug 27 |
 
 Reading for this day: The course syllabus (this entire website - yes, all of it, starting from the main page), and the [Drake Academic Honest Policy (College of Arts and Sciences)](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/) 
 
@@ -135,10 +135,19 @@ Supplementary:
 ____________________________________
 
 Sept 29 | 
-Topic: Theory of Computation
-Viewing for this day: [Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
-Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, "how solvable" a problem is, etc.!
+Topic: Analog and Biological Computation
 
+Viewing for this day: [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7?referrer=direct) (required! Will be available for free via Drake - link to be shared later)
+
+Reading for this day: 
+Chapter 1 of Joshua Clover's <i>The Matrix</i> 
+[Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
+
+Listening and viewing: [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
+[Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
+
+Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - you don't have to watch it) [Revisiting H.R. Giger](https://www.youtube.com/watch?v=CCFx188UmXs), 
+[Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w), [Ancient and analog mechtech - the Antikythera mechanism](https://www.youtube.com/watch?v=qqlJ50zDgeA)
 
 ____________________________________
 
@@ -345,18 +354,9 @@ NO CLASS - THANKSGIVING BREAK
 ____________________________________
 
 Dec 1 |
-
-Topic: Analog and Biological Computation
-
-Reading for this day: [Matrix Digital Rain](https://en.wikipedia.org/wiki/Matrix_digital_rain)
-
-Viewing for this day: [Watch the Matrix](https://digitalcampus.swankmp.net/drake373537/watch/DF7320A07CEA18B7?referrer=direct) (required! Will be available for free via Drake - link to be shared later), [Computing with Fungi](https://www.youtube.com/watch?v=wiFhw7JrDH0)
-
-Listening (and viewing): [The Analog Thing audio improv](https://www.youtube.com/watch?v=dVHf8Muz3Jg)
-[Analog hybrid music - start around 34:00](https://youtu.be/RenSvbUdwQs?si=ge-kHSiUoryFaG8K&t=2043)
-
-Supplementary: (WARNING: pretty weird, uncanny, sexual themes, etc. - you don't have to watch it) [Revisiting H.R. Giger](https://www.youtube.com/watch?v=CCFx188UmXs), 
-[Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w), [Ancient and analog mechtech - the Antikythera mechanism](https://www.youtube.com/watch?v=qqlJ50zDgeA)
+Topic: Theory of Computation
+Viewing for this day: [Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
+Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, "how solvable" a problem is, etc.!
 
 ____________________________________
 
