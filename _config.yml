@@ -8,7 +8,7 @@ header_pages:
  - index.md
  - schedule.md
  - grading.md
- - grade-estimator.md
+ - grade-estimator.html
 
 footer: Website constructed using <a href="https://jekyllrb.com">Jekyll</a> and <a href="https://github.com/b2a3e8/jekyll-theme-console">Jekyll theme console</a>
 
