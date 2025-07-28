@@ -197,6 +197,7 @@ Reading for this day:
 [Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
 
 Supplementary:
+[Marinos Koutsomichalis - <i>A HYPERSITIONAL MACHINE APPROPRIATING HUMAN CULTURE</i>](https://www.researchcatalogue.net/view/835089/1019933)
 [NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
 
@@ -329,6 +330,7 @@ Reading for this day: :
 Viewing for this day: 
 [Waneela - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)         
 Supplementary: 
+[This Machine Kills (podcast) - </i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
 
 ____________________________________
 
