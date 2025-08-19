@@ -174,6 +174,7 @@ Topic: The Uncanny and the Sublime
 
 Readings for this day: 
 [The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
+[Edmund Burke - <i>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</i>](https://pressbooks.bccampus.ca/classicreadings/chapter/edmund-burke-on-the-sublime/)
 
 [Freud - The Uncanny (Unheimlich)]
 
@@ -282,9 +283,9 @@ Supplementary:
 ____________________________________
 
 Nov 5 |
-Topic: Computer and Electronic Music
-Today: Field trip to the library to research the history of eletronic music
-MEET IN COWLES LIBRARY ROOM 201
+Topic: The Drake University Library
+Today: Field trip to the library for a session about resources, academic search, etc.
+MEET IN COWLES LIBRARY ROOM 45
 
 ____________________________________
 
