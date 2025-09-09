@@ -126,10 +126,10 @@ Viewing for this day:
 ____________________________________
 
 Sept 24 | 
-Topic: Computers Themselves 
+Topic: Computers Themselves
 Reading for this day: [Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
 Viewing for this day: [Vetroo K1 Pangolin Tower Case](https://www.newegg.com/gray-vetroo-k1-atx-micro-atx-mid-tower/p/2AM-02CE-00032), [Kanto mATX](https://www.etsy.com/listing/1122137090/kanto-matx-v13-high-performance-wooden), [HYTE Y70 ATX Mid-Tower Case](https://www.bestbuy.com/site/hyte-y70-atx-mid-tower-case-white/), [Windows 95 Ad](https://www.youtube.com/watch?v=t5G_cYjw0TM), [Apple vs PC](https://www.youtube.com/watch?v=1PwiljBN5-8),
-Supplementary:
+Supplementary: Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
 
 
 ____________________________________
@@ -454,7 +454,7 @@ Viewing: Blade Runner (Existentialism, Dystopia, Computing)
 a. give opportunity to improve on past work
 b. in a way that allows them to deal with more complex thinking 
 
-3. incorporate weekly low-stakes assignments into later large high-stakes assignments
+1. incorporate weekly low-stakes assignments into later large high-stakes assignments
 
 studies on whether students read written feedback???
 techniques to get students to read the feedback: iterative homework, credit for incorporating feedback
