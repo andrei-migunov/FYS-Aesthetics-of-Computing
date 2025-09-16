@@ -130,10 +130,9 @@ ____________________________________
 Sept 24 | The Uncanny and the Sublime
 
 Readings for this day: 
-[The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
-[Edmund Burke - <i>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful</i>](https://pressbooks.bccampus.ca/classicreadings/chapter/edmund-burke-on-the-sublime/)
-
-[Freud - The Uncanny (Unheimlich)]
+[(Skim) The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
+Edmund Burke - <i>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (Fragments)</i>
+Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 Supplementary: [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 
@@ -331,7 +330,7 @@ Reading for this day: :
 Viewing for this day: 
 [Waneela - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)         
 Supplementary: 
-[This Machine Kills (podcast) - </i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
+[This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
 
 ____________________________________
 
