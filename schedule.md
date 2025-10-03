@@ -234,8 +234,9 @@ ____________________________________
 Oct 27 |
 Topic: Video Games
 Reading for this day: 
-[Dithering](https://en.wikipedia.org/wiki/Dither)
-[Microtransactions](https://en.wikipedia.org/wiki/Microtransaction)
+[Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
+[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
+[Microtransactions](https://en.wikipedia.org/wiki/Microtransaction) (Skim)
 
 Viewing for this day:
 [How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
@@ -336,10 +337,8 @@ ____________________________________
 
 
 Nov 19 |
-Topic: Noise and Chaos
-Reading for this day: [Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
-Viewing for this day: TBD
-Pause for reflection (half-day)
+Topic: Learning Community Day
+Location: TBD (Find out in class)
 
 
 ____________________________________
