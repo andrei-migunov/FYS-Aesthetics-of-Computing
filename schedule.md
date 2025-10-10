@@ -177,7 +177,7 @@ ____________________________________
 
 Oct 8 | Registration Information
 
-Meet in Sheslow Auditorium, again (time TBD, will let you know in class.) 
+Meet in Olmsted Conference Rooms 312/313, at the usual time.
 
 
 ____________________________________
