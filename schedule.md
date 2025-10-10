@@ -190,15 +190,25 @@ FALL BREAK - NO CLASS - NO READING - ENJOY
 ____________________________________
 
 Oct 15 |
-Topic: Artificial Intelligence and Machine Learning
-(Guest Lecture)
+Topic: Video Games
 Reading for this day: 
-[Manovich - AI Aesthetics (Limits of Statistical Reason - end)](https://monoskop.org/images/6/66/Manovich_Lev_AI_Aesthetics_2018.pdf)
-[Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
+[Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
+[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
+[Microtransactions](https://en.wikipedia.org/wiki/Microtransaction) (Skim)
 
-Supplementary:
-[Marinos Koutsomichalis - <i>A HYPERSITIONAL MACHINE APPROPRIATING HUMAN CULTURE</i>](https://www.researchcatalogue.net/view/835089/1019933)
-[NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
+Viewing for this day:
+[How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
+[Games that don't fake the space](https://www.youtube.com/watch?v=Q85l1Fenc5w)
+[Procedurally generated city](https://www.youtube.com/watch?v=7MsAbMCxdkc)
+[Procedurally generated dungeons](https://www.youtube.com/watch?v=TPvxWIKHE6Q)
+
+Supplementary: 
+[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
+[Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
+[First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
+[Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
+[Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
+[Myst](https://en.wikipedia.org/wiki/Myst)
 
 
 ____________________________________
@@ -232,25 +242,16 @@ Supplementary:
 ____________________________________
 
 Oct 27 |
-Topic: Video Games
+
+Topic: Artificial Intelligence and Machine Learning
+(Guest Lecture)
 Reading for this day: 
-[Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
-[Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
-[Microtransactions](https://en.wikipedia.org/wiki/Microtransaction) (Skim)
+[Manovich - AI Aesthetics (Limits of Statistical Reason - end)](https://monoskop.org/images/6/66/Manovich_Lev_AI_Aesthetics_2018.pdf)
+[Scientific American - <i>Google Engineer Claims AI Chatbot Is Sentient: Why That Matters</i>](https://www.scientificamerican.com/article/google-engineer-claims-ai-chatbot-is-sentient-why-that-matters/)
 
-Viewing for this day:
-[How do video game graphics work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)
-[Games that don't fake the space](https://www.youtube.com/watch?v=Q85l1Fenc5w)
-[Procedurally generated city](https://www.youtube.com/watch?v=7MsAbMCxdkc)
-[Procedurally generated dungeons](https://www.youtube.com/watch?v=TPvxWIKHE6Q)
-
-Supplementary: 
-[How Computer Graphics Work](https://www.youtube.com/watch?v=cvcAjgMUPUA)
-[Creating a scene in Unity](https://www.youtube.com/watch?v=7Kp0z2eqkVY)
-[First generation of console games](https://en.wikipedia.org/wiki/First_generation_of_video_game_consoles)
-[Video game crash of 1983](https://en.wikipedia.org/wiki/Video_game_crash_of_1983)
-[Architects react to Elden Ring Architecture](https://www.youtube.com/watch?v=l1Mi0RKs6Z8)
-[Myst](https://en.wikipedia.org/wiki/Myst)
+Supplementary:
+[Marinos Koutsomichalis - <i>A HYPERSITIONAL MACHINE APPROPRIATING HUMAN CULTURE</i>](https://www.researchcatalogue.net/view/835089/1019933)
+[NVIDIA - <i>Understanding Aesthetics Using Deep Learning</i>](https://developer.nvidia.com/blog/understanding-aesthetics-deep-learning/)
 
 ____________________________________
 
