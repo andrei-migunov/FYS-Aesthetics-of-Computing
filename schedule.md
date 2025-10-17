@@ -190,7 +190,7 @@ FALL BREAK - NO CLASS - NO READING - ENJOY
 ____________________________________
 
 Oct 15 |
-Topic: Video Games
+Topic: Video Games I: Environment and UI
 Reading for this day: 
 [Perlin noise in No Man's Sky](https://medium.com/@pratyaksh.notebook/perlin-noise-the-evolving-algorithm-behind-the-diverse-universes-of-no-mans-sky-f2cc8ddacd52)
 [Dithering](https://en.wikipedia.org/wiki/Dither) (Skim)
@@ -309,14 +309,10 @@ Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses
 ____________________________________
 
 Nov 12 |
-Topic: Algorithms
-Reading for this day: 
-[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
-[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-Viewing for this day: 
-[Sieve of Eratosthenes animation]([Sieve animation](https://www.youtube.com/watch?v=dhfhu9Q5g8U),)
-Supplementary: 
-[Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
+Topic: Video Games II: Gameplay
+Reading for this day: Kirkpatrick - <i>Aesthetics and Videogames</i>
+Viewing for this day: TBD
+Optional: Send me via email a link to a single Google Slide (nicely designed, with images) plus a one paragraph explanation, about a game you'd like to present on for up to 5 minutes, and the aesthetic attributes you're going to focus on in your discussion. This isn't extra credit - just do it if you'd enjoy telling us about your favorite game. (I maintain the right to veto if I think you don't focus sufficiently on any aesthetic elements of the game.)
 
 
 ____________________________________
@@ -356,9 +352,16 @@ NO CLASS - THANKSGIVING BREAK
 ____________________________________
 
 Dec 1 |
-Topic: Theory of Computation
-Viewing for this day: [Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
+Topic: Algorithms and Theory of Computation
+Reading for this day: 
+[Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+[Binary Search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+Viewing for this day: 
+[Why theory of computation?](https://www.youtube.com/watch?v=SV57Yv8BXBc), [the P vs NP Problem](https://www.youtube.com/watch?v=EHp4FPyajKQ), [the Halting Problem](https://www.youtube.com/watch?v=Kzx88YBF7dY), 
 Note: You do NOT need to comprehend the mathematics of these ideas. Focus on the big picture and getting the main ideas: "the limits" of computation, programs that read other programs, "how solvable" a problem is, etc.!
+[Sieve of Eratosthenes animation]([Sieve animation](https://www.youtube.com/watch?v=dhfhu9Q5g8U),)
+Supplementary: 
+[Quicksort](https://en.wikipedia.org/wiki/Quicksort)  
 
 ____________________________________
 
