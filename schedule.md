@@ -291,17 +291,17 @@ MEET IN COWLES LIBRARY ROOM 45
 ____________________________________
 
 Nov 10 |
-Topic: Coding, Hacking, Virality
-
-Reading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming), [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture)
-Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#/media/File:W65C816S_Machine_Code_Monitor.jpeg), [High-level code](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png), [More high-level code](https://www.wikihow.com/images/thumb/0/04/4582307-12.jpg/-crop-342-184-245px-4582307-12.jpg.webp),
-[Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA)
+Topic: Speed and Efficiency 
+Reading for this day: 
+Jacques Ellul - <i>The Technological Society</i> (Excerpts)
+(skim these:)
 [Viral phenomenon](https://en.wikipedia.org/wiki/Viral_phenomenon)
 [Meme](https://en.wikipedia.org/wiki/Meme)
+[Conspicuous consumption](https://en.wikipedia.org/wiki/Conspicuous_consumption)
 
-Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps), [Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo)
-
-
+<!-- Supplementary: [Drake Computer Science Courses](https://www.drake.edu/cs/courses/), [How to Learn Coding](https://daily.dev/blog/how-to-start-programming-as-a-beginner-first-steps), [Hacker Interview - Gummo](https://www.youtube.com/watch?v=g6igTJXcqvo) -->
+<!-- Topic: Coding, Hacking, ViralityReading for this day: [Computer programming](https://en.wikipedia.org/wiki/Computer_programming), [Hacker](https://en.wikipedia.org/wiki/Hacker), [Hacker Culture](https://en.wikipedia.org/wiki/Hacker_culture) Viewing for this day: [Machine code](https://en.wikipedia.org/wiki/Machine_code#/media/File:W65C816S_Machine_Code_Monitor.jpeg), [High-level code](https://code.visualstudio.com/assets/docs/python/tutorial/run-python-file-in-terminal-button.png), [More high-level code](https://www.wikihow.com/images/thumb/0/04/4582307-12.jpg/-crop-342-184-245px-4582307-12.jpg.webp), [Mr.Robot - 'I live for this'](https://www.youtube.com/watch?v=67gYEK4FtzA) -->
+<!-- https://socialecologies.wordpress.com/2025/09/27/paul-virilio-dromology-and-the-biomechanical-continuum/ -->
 <!-- https://medium.com/@matthew.a.carswell/value-hacking-is-the-only-true-way-to-thrive-4ac67ff199df-->
 
 <!-- There is always thrill involved, it's like the vibe of bank heist movies. Risk, reward, sometimes integrity and a sense of social justice. Criminality. -->
