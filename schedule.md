@@ -316,6 +316,9 @@ Reading for this day: Kirkpatrick - <i>Aesthetics and Videogames</i>
 Viewing for this day: TBD
 Optional: Send me via email a link to a single Google Slide (nicely designed, with images) plus a one paragraph explanation, about a game you'd like to present on for up to 5 minutes, and the aesthetic attributes you're going to focus on in your discussion. This isn't extra credit - just do it if you'd enjoy telling us about your favorite game. (I maintain the right to veto if I think you don't focus sufficiently on any aesthetic elements of the game.)
 
+Supplementary Reading:
+[David Graeber - <i>What's the point if we can't have fun?></i>](https://thebaffler.com/salvos/whats-the-point-if-we-cant-have-fun
+)
 
 ____________________________________
 
