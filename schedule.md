@@ -38,6 +38,8 @@ I also try to include *reasons* for *why* we are spending time on these topics (
 
 **Viewings:** None
 
+**Discussion Questions:** Not much to discuss here, but if you have questions about the policies and expectations you need to speak up now or forever (until the end of the semester) hold your peace!
+
 ---
 
 **Date:** 8/26
@@ -60,6 +62,11 @@ Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/E
 **Optional:** [Stanford Encyclopedia of Philosophy - Aesthetics of the Everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 [CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
 
+**Discussion Questions:** 
+  1. How does aesthetics ""work""?
+
+  2. **What are some everyday aesthetics you've encountered?**
+
 ---
 
 **Date:** 8/31
@@ -67,15 +74,20 @@ Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/E
 **Topic:** Aesthetic Theory and Rhetoric
 
 **Readings:** 
-<!-- Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>,  -->
 Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 1 : Aesthetics
 
+and skim (or read, if you have time) 
+
+Barry Brummett - <i>Rhetoric of Machine Aesthetics Ch. 1</i>
 
 **Viewings:**
 
-
 **Optional:**  [SEP - Heidegger's <i>Phenomenological Approach to Art</i>](https://plato.stanford.edu/entries/heidegger-aesthetics/#PheAppArt)  
 
+**Discussion Questions:** 
+  1. Think of some everyday objects that 'make claims' or 'make arguments' in the way we're talking about.
+
+  2. **How do you think rhetoric relates to other parts of life? Art, morality, science, etc.?**
 
 ---
 
@@ -85,15 +97,21 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 1 : Aesthetics
 
 **Readings:** Slavoj Zizek - section on antisemitism from <i>The Sublime Object of Ideology</i>
 Susan Sontag - <i>Against Interpretation  </i>
-<!-- Daniel Kahneman - <i>Systems 1 and 2</i> -->
 
 
 **Viewings:** 
 
 **Optional:** 
-
+Daniel Kahneman - <i>Systems 1 and 2</i> 
 Zenil, Soler-Toscano, Gauvrit - <i>Aesthetic Preferences</i>
 Bill Livant - The Hole in Hegel's Bagel
+
+**Discussion Questions:** 
+  1. What are some examples of beliefs we form before we really get a chance to think about them?
+
+  2. **What is - in your own words - Zizek's point? You don't need to agree with him - but be careful, and try to get this as precisely right as you can so that you're not mischaracterizing his argument. Was there anything you particular agreed or disagreed with?**
+
+  3. **What is the main thesis of Sontag's essay?** Was there anything you particular agreed or disagreed with? What do people tend to look for in art? (That’s an anthropological question). What should we look for in art? (That’s a normative question).
 
 
 ---
@@ -101,6 +119,10 @@ Bill Livant - The Hole in Hegel's Bagel
 **Date:** 9/7
 
 **Topic:** **Labor Day - NO CLASS**
+
+**Discussion Questions:**  You have the day off but if you want, here's a lingering question for you especially in light of Sontag's essay:
+
+  1. Defend the following claim or make an argument against it : "When one makes art, one imparts meaning to it."
 
 
 ---
@@ -118,6 +140,11 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Optional:**
 
+**Discussion Questions:** 
+  1. What parts of Graeber's argument did you find interesting and why? Was there anything you particulary agreed or disagreed with?
+
+  2. Bartel discusses three kinds of play. We'll get into each of them in more depth later on - but for now: **what are they, and what do you think of these three kinds of play?** Are they anthropologically accurate: that is, do people really play in these ways? Are there any kinds of play that are left out?
+
 ---
 
 **Date:** 9/14
@@ -130,6 +157,14 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Optional:** (WARNING: weird, uncanny, sexual themes, etc. - not mandatory whatsoever) [H.R. Giger](https://www.artnet.com/artists/hans-rudolf-giger/)
 
+**Discussion Questions:** 
+
+  1. What do you think Brummett means when he refers to an aesthetic as a subject or as an object?
+
+  2. **A lot of what Brummett seems to do when describing specific aesthetic qualities is mixing history, popular belief, and philosophical analysis all together. What do you make of this way of thinking?**
+
+  3. **Throw a picture (along with your name) in the slides of something that you think qualifies as 'mechtech' based on what you've read.**
+
 ---
 
 **Date:** 9/16 
@@ -141,6 +176,11 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Viewings:** 
 
 **Optional:** [Bauhaus - Influence on Everyday Life](https://www.youtube.com/watch?v=HH7we9EaQok), [Le Corbusier's Machines for Living](https://www.youtube.com/watch?v=vQX7-4qxXBI) [Repetition Compulsion - World Historical Rhythms in Architecture](https://www.e-flux.com/journal/54/59858/repetition-compulsion-world-historical-rhythms-in-architecture), [Abigail Cain - What Steve Jobs Learned from the Bauhaus](https://www.artsy.net/article/artsy-editorial-steve-jobs-learned-bauhaus)
+
+**Discussion Questions:** 
+  1. **Come up with some (ideally, unusual!) examples of repetition that you encounter in life.**
+
+  2. Can you think of machines that don't seem to feature repetition in their design or behavior? (Maybe another interesting unspoken thing here is that the behavior is part of the design when it comes to machines.)
 
 ---
 
@@ -159,6 +199,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Optional:** Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
 
+**Discussion Questions:** 
+  1. **What exactly is electrotech? Focus on getting the concept right by explaining what characterizes it: what makes electrotech electrotech, as opposed to something else?**
+
 ---
 
 **Date:** 9/23
@@ -176,6 +219,11 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Optional:** Buffy the Vampire Slayer Season 1 Ep. 8: <i>I Robot, You Jane</i> (I don't have a link to this one - but it's a good example of 'evil computer' and I highly recommend it!)
 
+**Discussion Questions:** 
+  1. What is the role of electricity in electrotech? Can there be non-electrical machines that you would still be willing to call electrotech? 
+
+  2. **Talk about the importance of the occluded interior of electrotech. Why is this the major departure from mechtech?**
+   
 ---
 
 **Date:** 9/28
@@ -189,6 +237,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Listening:** : [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI), [William Basinski - <i> Disintegration Loops </i>](https://www.youtube.com/watch?v=zj0KO2YldCo) (also see [Wikipedia - Distintegration Loops](https://en.wikipedia.org/wiki/The_Disintegration_Loops))
 
 **Optional:** [The Aesthetics of Decay - Beyond the Beautiful](https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/)
+
+**Discussion Questions:** 
+  1. **What's so attractive about decaying technology? Think outside the box here, come up with your own explanations.**
 
 
 ---
@@ -204,6 +255,15 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Listening:** : [The Caretaker - <i> All You Are Going to Want to do is Get Back There </i>](https://www.youtube.com/watch?v=adaTEdqR4xI), [William Basinski - <i> Disintegration Loops </i>](https://www.youtube.com/watch?v=zj0KO2YldCo) (also see [Wikipedia - Distintegration Loops](https://en.wikipedia.org/wiki/The_Disintegration_Loops))
 
 **Optional:** [The Aesthetics of Decay - Beyond the Beautiful](https://lozcliffe.com/the-aesthetics-of-decay-beyond-the-beautiful/)
+
+**Discussion Questions:** 
+
+  1. Nature is sometimes described as ‘wild’ - is there any distinction to be made between ‘wild nature’ and the ‘abandoned’?
+
+  2. Abandoned is a big, heavy, emotional word. Write about abandonment - try to go beyond the personal here, try to capture aspects of this as a feeling that is broad and felt in many times, places, and people.
+
+  3. Distinguish abandoned/decayed mechtech from abandoned/decayed electrotech. 
+
 
 ---
 
@@ -221,6 +281,10 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Optional:** [Analog computers](https://www.youtube.com/watch?v=IgF3OX8nT0w), [Ancient and analog mechtech - the Antikythera mechanism](https://www.youtube.com/watch?v=qqlJ50zDgeA)
 
+**Discussion Questions:** 
+
+  1. **What do you think of Clover's essay?**
+
 ---
 
 **Date:** 10/7
@@ -232,6 +296,12 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 **Viewings:** [Cybersyn](https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2a/CyberSyn-Orbital-001.webm/CyberSyn-Orbital-001.webm.720p.vp9.webm), [living plant controls a machete through an industrial robot arm](https://www.youtube.com/watch?v=orreSVCXFKU)
 
 **Optional:** [Norbert Wiener - <i>Cybernetics</i>](https://rauterberg.employee.id.tue.nl/lecturenotes/DDM110%20CAS/Wiener-1948%20Cybernetics.pdf)
+
+**Discussion Questions:** 
+
+  1. **What is Beer's point?**
+
+  2. This topic is certainly a lot more `mathematical' in a way, but it bears on a term that comes up a lot in cyberpunk: cybernetics. So (assuming you've been reading some Neuromancer...) - what's the relationship between Beer's term cybernetic and that used in the cyberpunk genre? (If you have not started Neuromancer, don't stress about this question)
 
 
 ---
@@ -247,17 +317,19 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Optional:** [The “uncanny” is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 
+**Discussion Questions:** 
+  1. Can something be uncanny and sublime? Can something be neither?
+
+  2. Burke v. Freud 1v1 cage match - who wins?
+
+  3. **Give an example (a new one) of the sublime.**
+   
 ---
 
 **Date:** 10/14
 
 **Topic:** **FALL BREAK - NO CLASS**
 
-**Readings:**
-
-**Viewings:**
-
-**Optional:**
 
 ---
 
@@ -267,9 +339,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:** Neuromancer Ch.s 1-3
 
-**Viewings:**
-
-**Optional:**
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
 ---
 
@@ -279,9 +349,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:** Stories from the Big Book - TBD
 
-**Viewings:**
-
-**Optional:**
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
 ---
 
@@ -291,9 +359,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:** Stories from the Big Book - TBD
 
-**Viewings:**
-
-**Optional:**
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
 ---
 
@@ -303,9 +369,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Readings:**
 
-**Viewings:**
-
-**Optional:**
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
 ---
 
@@ -313,10 +377,15 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** *Blade Runner (1982)*
 
+**Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
+
 
 ---
 
 **Date:** 11/4
+
+**Topic**: Computer and Electronic Music
+
 **Readings:** [Fisher - Interview w/ Burial](https://www.thewire.co.uk/in-writing/interviews/burial_unedited-transcript) 
 
 **Viewing:** [Wendy Carlos](https://www.youtube.com/watch?v=UsW2EDGbDqg)
@@ -332,6 +401,14 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 [oneohtrix Point Never (feat. The Weeknd, Caroline Polachek) - <i>No Nightmares</i>](https://www.youtube.com/watch?v=duDHGNIB8a4)
 [Quarta 330 - <i>Sunset Dub</i>](https://www.youtube.com/watch?v=KV2RV3iJDWk)
 [(Documentary) Delia Derbyshire - <i>The Delian Mode</i>](https://www.youtube.com/watch?v=n2dvGQ32q8g)
+
+**Discussion Questions:** 
+  1. What are the main attraction factors in electronic music for those who enjoy it? What does high-bpm electronic music do for the cyberpunk genre of film and games?
+
+  2. **Burial describes his production process, in particular the use of pitch-shifted vocals. What effect do these achieve?**
+
+  3. What do you make of the use of ‘natural’ samples in electronic music? Is it commonplace? Does it work?
+
 
 ---
 
@@ -349,17 +426,29 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 [Technological revolutions and techno-economic paradigms](http://technologygovernance.eu/files/main/2009070708552121.pdf)
 [Halt and Catch Fire - 90s Nostalgia](https://www.youtube.com/watch?v=LvfKEJmqMQQ)
 
+**Discussion Questions:** 
+
+1. Expand on Ulanoff’s discussion of tech nostalgia in terms of your own experiences with technology.
+
+2. Is nostalgia dangerous? Healthy? Neutral?
+
+3. Describe some “lost futures”. 
+
+
 ---
 
 **Date:** 11/11
 
 **Topic:** Gamer Aesthetics and Aesthetics of Speed
 
-**Readings:** TBD
+**Readings:** [Aesthetics Wiki- <i> The Gamer Aesthetic </i>](https://aesthetics.fandom.com/wiki/Category:Gaming)
 
 **Viewings:**
 
 **Optional:**
+
+**Discussion Questions:** 
+   1. **What is a gamer? Do gamers constitute a community? If so, is it based on a shared aesthetic experience?**
 
 ---
 
@@ -385,6 +474,13 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 [Myst](https://en.wikipedia.org/wiki/Myst)
 
+**Discussion Questions:** 
+
+   1. **What elements of the core technological aesthetics (mechtech, electrotech, chaotech) appear in video game environments?**
+
+   2. **What are some quirks or differences between natural environments and videogame environments, and what are their aesthetic impacts or effects on players?**
+
+
 ---
 
 **Date:** 11/18
@@ -394,7 +490,10 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 **Readings:** 
 Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aesthetics
 
-**Play**: Play some [Tetris](https://www.freetetris.org/) and also some [Mario](https://www.smbgames.be/original-smb.php)
+**Play**: Play some [Tetris](https://www.freetetris.org/) and also some [Mario](https://www.smbgames.be/original-smb.php). Or something else that fits the bill of 'goal-seeking' aesthetics in gameplay (in which case, tell us about it in class)!
+
+**Discussion Questions:** 
+   1. **What are some of the goal-seeking aesthetics that appear in games you like?**
 
 ---
 
@@ -405,11 +504,18 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 **Readings:**   Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 5: Dollhouse Aesthetics
 
 **Play:** Find a game which features dollhouse aesthetics and play it a bit - then report back in class! 
+
+**Discussion Questions:** 
+
+   1. **We know some examples of dollhouse play: character customization, for one. Find some more, and discuss them.**
+   
 ---
 
 **Date:** 11/25
 
-**Topic:** NO CLASS - Thanksgiving
+**Topic:** NO CLASS // GIVE THANKS
+
+**Discussion Questions:** 
 
 
 ---
@@ -425,6 +531,9 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 
 **Optional:** [Kolmogorov Complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity)
 
+**Discussion Questions:** 
+   1. **How do you define chaos? Can chaos be constructed? How can you use chaos in a game?**
+
 ---
 
 **Date:** 12/1
@@ -432,13 +541,22 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 **Topic:** AI Art, Pixel Art, and Slop
 
 **Readings:** [(skim) Wikipedia - <i>Artificial Intelligence Art</i>](https://en.wikipedia.org/wiki/Artificial_intelligence_art)
-[Harvard Gazette - <i>Is Art Generated by AI Real Art?</i>](https://news.harvard.edu/gazette/story/2023/08/is-art-generated-by-artificial-intelligence-real-art/)
-[Quiz - <i>Real or AI?</i>](https://britannicaeducation.com/blog/quiz-real-or-ai/)
+[Waneella and Liam Wong on the Artistic Allure of Japan](https://vol.co/blogs/journal/waneella_vs_wong)
 [Welcome to Slop World: how the hostile internet is driving us crazy](https://archive.is/RKBgT)
 
-**Viewings:** [Waneela - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)       
+**Viewings:** [Waneella - pixel art landscapes and slice of life](https://www.instagram.com/waneella/)       
 
-**Optional:** [This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
+**Optional:**
+[Quiz - <i>Real or AI?</i>](https://britannicaeducation.com/blog/quiz-real-or-ai/)
+[This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
+
+**Discussion Questions:** 
+   1. **Get into the weeds: why is pixel art specifically easy to see as 'artisinal' - as something tailored with care by a human being? Some of this is knowledge, context, etc. - we kind of are *aware* that it is so. But if we weren't, what is it about *pixel-artworks themselves* would indicate this kind of personal, attentive, human care?**
+
+   2. Pixel art could be said to be a form in which the content of what is depicted appears. When (for which content) is it the “right” form?
+
+   3. AI art is recently a hot topic - with many ethical concerns coincident. Many dispute that it is ‘real art’. What do you think? Don’t stop at your instinct - think through the opposite perspective, also - and arrive at a judgment.
+
 
 
 
