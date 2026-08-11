@@ -551,7 +551,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 [This Machine Kills (podcast) - <i>ScamGPT - How AI Supercharges Fraud, ft. Alice Marwick </i>](https://open.spotify.com/episode/2mEDxiebiX1GBamzOCJCAP?si=d6273cda1d544d9f)
 
 **Discussion Questions:** 
-   1. **Get into the weeds: why is pixel art specifically easy to see as 'artisinal' - as something tailored with care by a human being? Some of this is knowledge, context, etc. - we kind of are *aware* that it is so. But if we weren't, what is it about *pixel-artworks themselves* would indicate this kind of personal, attentive, human care?**
+   1. **Get into the weeds: why is pixel art specifically easy to see as 'artisanal' - as something tailored with care by a human being? Some of this is knowledge, context, etc. - we kind of are *aware* that it is so. But if we didn't know anything about the kind of person, or the kind of context in which pixel artworks are produced - then what is it about *pixel-artworks themselves* that would indicate this kind of personal, attentive, human care?**
 
    2. Pixel art could be said to be a form in which the content of what is depicted appears. When (for which content) is it the “right” form?
 
