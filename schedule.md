@@ -50,7 +50,7 @@ I also try to include *reasons* for *why* we are spending time on these topics (
 
 Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
 
-**TODO:** Syllabus Quiz on Blackboard (Due tonight)
+**TODO:** Syllabus Quiz on Blackboard (Due this week, see BB)
 
 **Viewings:** (please do not watch the entire 4.5 hour loops, just glance at those and absorb the vibe) 
 [Solarpunk aesthetic](https://www.youtube.com/watch?v=UqJJktxCY9U), 
@@ -337,7 +337,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** Cyberpunk 
 
-**Readings:** Neuromancer Ch.s 1-3
+**Readings:** [Neuromancer Ch.s 1-3](https://dn720006.ca.archive.org/0/items/neuromancer_202209/neuromancer.pdf)
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
@@ -367,7 +367,7 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
 **Topic:** Theory of Cyberpunk
 
-**Readings:**
+**Readings:** TBD
 
 **Discussion Questions:** Discussion is expected as usual but there aren't any particular questions today. Talk about whatever you want related to the topic!
 
