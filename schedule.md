@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: default
-permalink: /schedule
+permalink: /schedule.html
 ---
 
 # Schedule

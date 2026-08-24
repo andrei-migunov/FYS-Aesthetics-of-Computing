@@ -1,7 +1,7 @@
 ---
 title: Grading
 layout: default
-permalink: /grading
+permalink: /grading.html
 ---
 
 <!--https://www.drake.edu/dc/facultystaffresources/fysresources/fall2020fyssamplesyllabi/#d.en.345720 --> 

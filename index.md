@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-permalink: /index
+permalink: /index.html
 ---
 
 ![Welcome to Aesthetics of Computing](welcome_aesthetics.gif)
