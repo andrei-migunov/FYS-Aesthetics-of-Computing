@@ -48,7 +48,7 @@ I also try to include *reasons* for *why* we are spending time on these topics (
 
 **Readings:** The whole syllabus (this whole website) as well as the [Drake University Academic Integrity Policy](https://www.drake.edu/studentlife/handbook-resources/handbook/academic/). 
 
-Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/Everyday_Aesthetics)
+Skim this page: [Wikipedia: Aesthetics](https://en.wikipedia.org/wiki/Aesthetics) and also this one if you have time [Stanford Encyclopedia of Philosophy - Aesthetics of the Everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
 
 **TODO:** Syllabus Quiz on Blackboard (Due this week, see BB)
 
@@ -59,7 +59,7 @@ Skim this page: [Wikipedia: Everyday Aesthetics](https://en.wikipedia.org/wiki/E
 [Hacking](https://www.youtube.com/watch?v=RoVTisgEaFM), 
 [Cybercore](https://aesthetics.fandom.com/wiki/Cybercore)
 
-**Optional:** [Stanford Encyclopedia of Philosophy - Aesthetics of the Everyday](https://plato.stanford.edu/entries/aesthetics-of-everyday/)
+**Optional:** 
 [CARI - Consumer Aesthetics Research Institute](https://cari.institute/)
 
 **Discussion Questions:** 
@@ -248,7 +248,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Topic:** Chaotech and the Aesthetics of Machine Decay
 
-**Reading:** Brummett - Ch. 4 (Chaotech), ((skim) Tech Noir - Wikipedia)[https://en.wikipedia.org/wiki/Tech_noir]
+**Reading:** Brummett - Ch. 4 (Chaotech), [(skim) Tech Noir - Wikipedia](https://en.wikipedia.org/wiki/Tech_noir)
 
 **Viewing:**[Abandoned mechtech](https://www.youtube.com/watch?v=03yLySD8jOg), [Abandoned electrotech - focus on the device, not its environment](https://www.youtube.com/shorts/jv7iOBBJ6Ns)
 
@@ -515,7 +515,7 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 3: Goal-Seeking Aest
 
 **Topic:** NO CLASS // GIVE THANKS
 
-**Discussion Questions:** 
+**Discussion Questions:** Turkey: Pros and Cons?
 
 
 ---
