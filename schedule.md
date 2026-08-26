@@ -308,6 +308,13 @@ Christopher Bartel - <i> Aesthetics and Video Games</i> Ch. 2: Three Attitudes t
 
 **Date:** 10/12
 
+
+**Topic:** **FALL BREAK - NO CLASS**
+
+---
+
+**Date:** 10/14
+
 **Topic:** The Uncanny and the Sublime
 
 **Readings:** [(Skim) The Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley), Edmund Burke - <i>A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful (Fragments)</i>
@@ -324,13 +331,6 @@ Freud - <i>The Uncanny (Unheimlich) (Fragments)</i>
 
   3. **Give an example (a new one) of the sublime.**
    
----
-
-**Date:** 10/14
-
-**Topic:** **FALL BREAK - NO CLASS**
-
-
 ---
 
 **Date:** 10/19
